@@ -1,8 +1,5 @@
 package com.joephone.codebox;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.Context;
@@ -16,60 +13,69 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
+import android.widget.ImageView;
 import android.widget.ListView;
-import android.widget.TextView;
 
-//import com.joephone.codebox.adapter.IndexAdapter;
+import com.joephone.codebox.adapter.IndexAdapter;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import butterknife.Bind;
+import butterknife.ButterKnife;
 
 public class IndexActivity extends Activity {
-	private String tag = this.getClass().getName();
-	private Context context;
-	private TextView tvNotice;
-	private ListView lvIndex;
-//	private IndexAdapter adapter;
+    @Bind(R.id.back)
+    ImageView back;
+    @Bind(R.id.lvIndex)
+    ListView lvIndex;
+    private String tag = this.getClass().getName();
+    private Context context;
+    private IndexAdapter adapter;
 
-	@Override
-	protected void onCreate(Bundle savedInstanceState) {
-		super.onCreate(savedInstanceState);
-		setContentView(R.layout.main_index);
-		initView();
-		initListView();
-	}
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.main_index);
+        ButterKnife.bind(this);
 
-	private void initView() {
-		context = this;
-		lvIndex = (ListView) findViewById(R.id.lvIndex);
-	}
+        initView();
+        initListView();
+    }
 
-	private void initListView() {
-		List<String> sourceList = new ArrayList<String>();
-		lvIndex.setOnItemClickListener(lvIndexOnItemClickListner);
-		sourceList.add("手机 AndroidSoftIndex");
-		sourceList.add("控件 Widget");
-		sourceList.add("ScrollView 效果集合");
-		sourceList.add("ListView 效果集合");
-		sourceList.add("Pic 图像处理");
-		sourceList.add("vPager 广告轮播");
-		sourceList.add("窗口添加机制");	
-		sourceList.add("动画 Animation");	
-		sourceList.add("通知 Notification");	
-		sourceList.add("侧滑菜单 slidemenu");	
-		sourceList.add("经典事例 classic");	
-		sourceList.add("其他");	
-//		adapter = new IndexAdapter(this, sourceList);
-//		lvIndex.setAdapter(adapter);
-	}
+    private void initView() {
+        context = this;
+    }
 
-	OnItemClickListener lvIndexOnItemClickListner = new OnItemClickListener() {
+    private void initListView() {
+        List<String> sourceList = new ArrayList<String>();
+        lvIndex.setOnItemClickListener(lvIndexOnItemClickListner);
+        sourceList.add("手机 AndroidSoftIndex");
+        sourceList.add("控件 Widget");
+        sourceList.add("ScrollView 效果集合");
+        sourceList.add("ListView 效果集合");
+        sourceList.add("Pic 图像处理");
+        sourceList.add("vPager 广告轮播");
+//		sourceList.add("窗口添加机制");
+//		sourceList.add("动画 Animation");
+//		sourceList.add("通知 Notification");
+//		sourceList.add("侧滑菜单 slidemenu");
+//		sourceList.add("经典事例 classic");
+//		sourceList.add("其他");
+        adapter = new IndexAdapter(this, sourceList);
+        lvIndex.setAdapter(adapter);
+    }
 
-		@Override
-		public void onItemClick(AdapterView<?> arg0, View arg1, int position, 
-				long arg3) {
-			Intent intent;
-			Log.i(tag, "position:" + position);
-			
+    OnItemClickListener lvIndexOnItemClickListner = new OnItemClickListener() {
 
-			switch (position) {
+        @Override
+        public void onItemClick(AdapterView<?> arg0, View arg1, int position,
+                                long arg3) {
+            Intent intent;
+            Log.i(tag, "position:" + position);
+
+
+            switch (position) {
 //			case 0:
 //				intent = new Intent(context, AndroidSoftIndex.class);
 //				startActivity(intent);
@@ -78,10 +84,10 @@ public class IndexActivity extends Activity {
 //				intent = new Intent(context, WidgetIndex.class);
 //				startActivity(intent);
 //				break;
-//			case 2:
-//				intent = new Intent(context, ScrollViewIndex.class);
-//				startActivity(intent);
-//				break;
+			case 2:
+				intent = new Intent(context, ScrollIndex.class);
+				startActivity(intent);
+				break;
 //			case 3:
 //				intent = new Intent(context, ListViewIndex.class);
 //				startActivity(intent);
@@ -120,22 +126,22 @@ public class IndexActivity extends Activity {
 //				break;
 //			default:
 //				break;
-			}
-		}
-	};
+            }
+        }
+    };
 
-	@Override
-	public boolean onCreateOptionsMenu(Menu menu) {
-		// Inflate the menu; this adds items to the action bar if it is present.
-		getMenuInflater().inflate(R.menu.main, menu);
-		return true;
-	}
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.main, menu);
+        return true;
+    }
 
-	@Override
-	public boolean onOptionsItemSelected(MenuItem item) {
-		// Handle action bar item clicks here. The action bar will
-		// automatically handle clicks on the Home/Up button, so long
-		// as you specify a parent activity in AndroidManifest.xml.
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        // Handle action bar item clicks here. The action bar will
+        // automatically handle clicks on the Home/Up button, so long
+        // as you specify a parent activity in AndroidManifest.xml.
 //		int id = item.getItemId();
 //		Intent intent;
 //		switch (id) {
@@ -153,10 +159,10 @@ public class IndexActivity extends Activity {
 //			break;
 //		}
 
-		return super.onOptionsItemSelected(item);
-	}
-	
-	@Override
+        return super.onOptionsItemSelected(item);
+    }
+
+    @Override
     public boolean onKeyDown(int keyCode, KeyEvent event) {
         if (keyCode == KeyEvent.KEYCODE_BACK) {
 
@@ -168,32 +174,32 @@ public class IndexActivity extends Activity {
                             new DialogInterface.OnClickListener() {
                                 @Override
                                 public void onClick(DialogInterface dialog,
-                                        int which) {
-                                	dialog.cancel();
+                                                    int which) {
+                                    dialog.cancel();
                                 }
                             })
                     .setPositiveButton("确定",
                             new DialogInterface.OnClickListener() {
                                 public void onClick(DialogInterface dialog,
-                                        int whichButton) {
+                                                    int whichButton) {
                                     finish();
                                 }
                             }).setNeutralButton("后台",
-                            new DialogInterface.OnClickListener() {
-                                public void onClick(DialogInterface dialog,
-                                        int whichButton) {
-                                	Intent i= new Intent(Intent.ACTION_MAIN);
-                                	i.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK); 
-                                	i.addCategory(Intent.CATEGORY_HOME);
-                                	startActivity(i);
-                                }
-                            }).create().show();
+                    new DialogInterface.OnClickListener() {
+                        public void onClick(DialogInterface dialog,
+                                            int whichButton) {
+                            Intent i = new Intent(Intent.ACTION_MAIN);
+                            i.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                            i.addCategory(Intent.CATEGORY_HOME);
+                            startActivity(i);
+                        }
+                    }).create().show();
 //        	}else{
 //        		finish();
 //        	}
             return true;
-            
-        }else {
+
+        } else {
             return super.onKeyDown(keyCode, event);
         }
     }
