@@ -52,9 +52,19 @@
 
         <!-- list -->
         <activity
+            android:name=".act.list.act.ListEditorAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+        <activity
+            android:name=".act.list.act.TimeLineAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+
+        <activity
             android:name=".act.list.act.PinnedSectionListAct"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle"/>
+
 
         <!-- end list -->
     </application>

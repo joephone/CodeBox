@@ -12,10 +12,9 @@ import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
 
+import com.joephone.codebox.act.list.act.ListEditorAct;
 import com.joephone.codebox.act.list.act.PinnedSectionListAct;
-import com.joephone.codebox.act.scroll.act.MapScrollAct;
-import com.joephone.codebox.act.scroll.act.PullToZoomAct;
-import com.joephone.codebox.act.scroll.act.TopFloatActivity;
+import com.joephone.codebox.act.list.act.TimeLineAct;
 import com.joephone.codebox.adapter.IndexAdapter;
 
 import java.util.ArrayList;
@@ -75,14 +74,14 @@ public class ListIndex extends Activity {
             Log.i(tag, "position:" + position);
 
             switch (position) {
-//                case 0:
-//                    intent = new Intent(context, PullToZoomAct.class);
-//                    startActivity(intent);
-//                    break;
-//                case 1:
-//                    intent = new Intent(context, MeiTuanMainActivity.class);
-//                    startActivity(intent);
-//                    break;
+                case 0:
+                    intent = new Intent(context, ListEditorAct.class);
+                    startActivity(intent);
+                    break;
+                case 1:
+                    intent = new Intent(context, TimeLineAct.class);
+                    startActivity(intent);
+                    break;
 //                case 2:
 //                    intent = new Intent(context, TopFloatActivity.class);
 //                    startActivity(intent);
