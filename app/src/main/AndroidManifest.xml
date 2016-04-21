@@ -28,6 +28,11 @@
             android:name=".ScrollIndex"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle"/>
+        <activity
+            android:name=".ListIndex"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+
 
         <!-- scroll -->
         <activity
@@ -42,7 +47,16 @@
             android:name=".act.scroll.act.MapScrollAct"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle"/>
+        <!-- end scroll -->
 
+
+        <!-- list -->
+        <activity
+            android:name=".act.list.act.PinnedSectionListAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+
+        <!-- end list -->
     </application>
 
 </manifest>

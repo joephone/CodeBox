@@ -18,9 +18,9 @@ import butterknife.ButterKnife;
 
 
 public class MapScrollAct extends Activity implements OnScrollListener {
-
-    @Bind(R.id.rlayout)
-    RelativeLayout rlayout;
+    private String tag ="MapScroll";
+    @Bind(R.id.layMain)
+    RelativeLayout layMain;
     @Bind(R.id.etSearch)
     EditText etSearch;
     @Bind(R.id.search02)
@@ -55,17 +55,17 @@ public class MapScrollAct extends Activity implements OnScrollListener {
     public void onWindowFocusChanged(boolean hasFocus) {
         super.onWindowFocusChanged(hasFocus);
         if (hasFocus) {
-            Log.i("personal", "rlayout:" + rlayout.getBottom());
-            Log.i("personal", "ivTitle:" + ivTitle.getBottom());
-            searchLayoutTop = rlayout.getBottom() - 120;//获取searchLayout的顶部位置
+            Log.i(tag, "layMain:" + layMain.getBottom());
+            Log.i(tag, "ivTitle:" + ivTitle.getBottom());
+            searchLayoutTop = layMain.getBottom() - 120;//获取searchLayout的顶部位置
         }
     }
 
     //监听滚动Y值变化，通过addView和removeView来实现悬停效果
     @Override
     public void onScroll(int scrollY) {
-        Log.i("personal", "scrollY:" + scrollY);
-        Log.i("personal", "searchLayoutTop:" + searchLayoutTop);
+        Log.i(tag, "scrollY:" + scrollY);
+        Log.i(tag, "searchLayoutTop:" + searchLayoutTop);
 
         if (scrollY >= searchLayoutTop) {
             if (etSearch.getParent() != search01) {

@@ -14,7 +14,7 @@ import android.widget.ScrollView;
  */
 public class MapScrollView extends ScrollView {
 
-    private String tag = this.getClass().toString();
+    private String tag = "MapScroll";
 	private OnScrollListener onScrollListener;
     /**
      * 主要是用在用户手指离开MyScrollView，MyScrollView还在继续滑动，我们用来保存Y的距离，然后做比较
@@ -70,8 +70,12 @@ public class MapScrollView extends ScrollView {
 		if(onScrollListener != null){  
             onScrollListener.onScroll(lastScrollY = this.getScrollY());  
         }  
-        switch(ev.getAction()){  
-        case MotionEvent.ACTION_UP:  
+        switch(ev.getAction()){
+        case MotionEvent.ACTION_DOWN:
+            Log.i(tag,"DOWN scrollY:"+this.getScrollY());
+            break;
+        case MotionEvent.ACTION_UP:
+            Log.i(tag,"UP scrollY:"+this.getScrollY());
              handler.sendMessageDelayed(handler.obtainMessage(), 20);    
             break;  
         }  

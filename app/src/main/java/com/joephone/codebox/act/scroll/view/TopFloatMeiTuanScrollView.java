@@ -40,20 +40,20 @@ public class TopFloatMeiTuanScrollView extends ScrollView {
     private Handler handler = new Handler() {  
   
         public void handleMessage(android.os.Message msg) {  
-            int scrollY = TopFloatMeiTuanScrollView.this.getScrollY();  
-              
-            //此时的距离和记录下的距离不相等，在隔5毫秒给handler发送消息  
-            if(lastScrollY != scrollY){  
-                lastScrollY = scrollY;  
-                handler.sendMessageDelayed(handler.obtainMessage(), 5);    
-            }  
-            if(onScrollListener != null){  
-                onScrollListener.onScroll(scrollY);  
-            }  
-              
-        };  
-  
-    }; 
+        int scrollY = TopFloatMeiTuanScrollView.this.getScrollY();
+
+        //此时的距离和记录下的距离不相等，在隔5毫秒给handler发送消息
+        if(lastScrollY != scrollY){
+            lastScrollY = scrollY;
+            handler.sendMessageDelayed(handler.obtainMessage(), 5);
+        }
+        if(onScrollListener != null){
+            onScrollListener.onScroll(scrollY);
+        }
+
+    };
+
+};
     /** 
      * 重写onTouchEvent， 当用户的手在MyScrollView上面的时候， 
      * 直接将MyScrollView滑动的Y方向距离回调给onScroll方法中，当用户抬起手的时候， 

@@ -88,10 +88,10 @@ public class IndexActivity extends Activity {
 				intent = new Intent(context, ScrollIndex.class);
 				startActivity(intent);
 				break;
-//			case 3:
-//				intent = new Intent(context, ListViewIndex.class);
-//				startActivity(intent);
-//				break;
+			case 3:
+				intent = new Intent(context, ListIndex.class);
+				startActivity(intent);
+				break;
 //			case 4:
 //				intent = new Intent(context, PicIndex.class);
 //				startActivity(intent);

@@ -15,7 +15,7 @@ import com.joephone.codebox.act.scroll.view.TopFloatMeiTuanScrollView.OnScrollLi
 
 
 public class TopFloatActivity extends Activity implements OnScrollListener{
-	private EditText search_edit;
+	private EditText etSearch;
 	private ImageView ivTitle;
 	private TopFloatMeiTuanScrollView myScrollView;
     private int searchLayoutTop;
@@ -33,7 +33,7 @@ public class TopFloatActivity extends Activity implements OnScrollListener{
 
 	private void init() {
 		ivTitle = (ImageView)findViewById(R.id.ivTitle);
-		search_edit = (EditText)findViewById(R.id.etSearch);
+		etSearch = (EditText)findViewById(R.id.etSearch);
 		myScrollView = (TopFloatMeiTuanScrollView)findViewById(R.id.myScrollView);
 		search01 = (LinearLayout)findViewById(R.id.search01);
 		search02 = (LinearLayout)findViewById(R.id.search02);
@@ -59,14 +59,14 @@ public class TopFloatActivity extends Activity implements OnScrollListener{
     	Log.i("personal", "searchLayoutTop:"+searchLayoutTop);
 		
 		if(scrollY >= searchLayoutTop){  
-			if (search_edit.getParent()!=search01) {
-				search02.removeView(search_edit);
-				search01.addView(search_edit);
+			if (etSearch.getParent()!=search01) {
+				search02.removeView(etSearch);
+				search01.addView(etSearch);
 			}
         }else{
-        	if (search_edit.getParent()!=search02) {
-        		search01.removeView(search_edit);
-        		search02.addView(search_edit);
+        	if (etSearch.getParent()!=search02) {
+        		search01.removeView(etSearch);
+        		search02.addView(etSearch);
 			}
         }
 	}

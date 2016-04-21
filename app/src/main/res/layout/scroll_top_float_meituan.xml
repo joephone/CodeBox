@@ -37,7 +37,7 @@
                 android:orientation="vertical" >
 
                 <EditText
-                    android:id="@+id/tvSearch"
+                    android:id="@+id/etSearch"
                     android:layout_width="match_parent"
                     android:layout_height="40dip"
                     android:background="@drawable/scrollview_top_float_bg_edittext"
