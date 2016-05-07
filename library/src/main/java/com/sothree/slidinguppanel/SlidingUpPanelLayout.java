@@ -14,6 +14,7 @@ import android.os.Parcelable;
 import android.support.v4.view.MotionEventCompat;
 import android.support.v4.view.ViewCompat;
 import android.util.AttributeSet;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.MotionEvent;
 import android.view.View;
@@ -30,7 +31,7 @@ import java.util.List;
 
 public class SlidingUpPanelLayout extends ViewGroup {
 
-    private static final String TAG = SlidingUpPanelLayout.class.getSimpleName();
+    private static final String tag = SlidingUpPanelLayout.class.getSimpleName();
 
     /**
      * Default peeking out panel height
@@ -45,7 +46,7 @@ public class SlidingUpPanelLayout extends ViewGroup {
     /**
      * Default initial state for the component
      */
-    private static PanelState DEFAULT_SLIDE_STATE = PanelState.COLLAPSED;
+    private static PanelState DEFAULT_SLIDE_STATE = PanelState.ANCHORED;
 
     /**
      * Default height of the shadow above the peeking out panel
@@ -64,7 +65,7 @@ public class SlidingUpPanelLayout extends ViewGroup {
     /**
      * Default is set to false because that is how it was written
      */
-    private static final boolean DEFAULT_OVERLAY_FLAG = false;
+    private static final boolean DEFAULT_OVERLAY_FLAG = true;
     /**
      * Default is set to true for clip panel for performance reasons
      */
@@ -808,11 +809,16 @@ public class SlidingUpPanelLayout extends ViewGroup {
                     mSlideOffset = 1.0f;
                     break;
                 case ANCHORED:
+                    Log.i(tag,"first mAnchorPoint:"+mAnchorPoint);
+
                     mSlideOffset = mAnchorPoint;
                     break;
                 case HIDDEN:
                     int newTop = computePanelTopPosition(0.0f) + (mIsSlidingUp ? +mPanelHeight : -mPanelHeight);
                     mSlideOffset = computeSlideOffset(newTop);
+                    break;
+                case COLLAPSED:
+                    mSlideOffset = 0.f;
                     break;
                 default:
                     mSlideOffset = 0.f;
@@ -844,6 +850,31 @@ public class SlidingUpPanelLayout extends ViewGroup {
             final int childBottom = childTop + childHeight;
             final int childLeft = paddingLeft + lp.leftMargin;
             final int childRight = childLeft + child.getMeasuredWidth();
+
+            //            Log.i(tag,"第二个　onLayout");
+
+            if (!mFirstLayout) {
+                switch (mSlideState) {
+                    case EXPANDED:
+                        mSlideOffset = 1.0f;
+                        break;
+                    case ANCHORED:
+                        Log.i(tag,"second mAnchorPoint:"+mAnchorPoint);
+//                        mSlideOffset = mAnchorPoint;
+                        mSlideOffset = 0.5f;
+                        break;
+                    case HIDDEN:
+                        int newTop = computePanelTopPosition(0.0f) + (mIsSlidingUp ? +mPanelHeight : -mPanelHeight);
+                        mSlideOffset = computeSlideOffset(newTop);
+                        break;
+                    case COLLAPSED:
+                        mSlideOffset = 0.f;
+                        break;
+                    default:
+                        mSlideOffset = 0.f;
+                        break;
+                }
+            }
 
             child.layout(childLeft, childTop, childRight, childBottom);
         }
@@ -1084,15 +1115,20 @@ public class SlidingUpPanelLayout extends ViewGroup {
             }
             switch (state) {
                 case ANCHORED:
-                    smoothSlideTo(mAnchorPoint, 0);
+                    Log.i(tag,"ANCHORED");
+                    Log.i(tag,"case ANCHORED mAnchorPoint:"+mAnchorPoint);
+                    smoothSlideTo(0.5f, 0);
                     break;
                 case COLLAPSED:
+                    Log.i(tag,"COLLAPSED");
                     smoothSlideTo(0, 0);
                     break;
                 case EXPANDED:
+                    Log.i(tag,"EXPANDED");
                     smoothSlideTo(1.0f, 0);
                     break;
                 case HIDDEN:
+                    Log.i(tag,"HIDDEN");
                     int newTop = computePanelTopPosition(0.0f) + (mIsSlidingUp ? +mPanelHeight : -mPanelHeight);
                     smoothSlideTo(computeSlideOffset(newTop), 0);
                     break;
@@ -1337,13 +1373,17 @@ public class SlidingUpPanelLayout extends ViewGroup {
                     setPanelStateInternal(PanelState.EXPANDED);
                 } else if (mSlideOffset == 0) {
                     setPanelStateInternal(PanelState.COLLAPSED);
+                } else if(mSlideOffset == 0.5f) {
+                    setPanelStateInternal(PanelState.ANCHORED);
                 } else if (mSlideOffset < 0) {
                     setPanelStateInternal(PanelState.HIDDEN);
                     mSlideableView.setVisibility(View.INVISIBLE);
-                } else {
-                    updateObscuredViewVisibility();
-                    setPanelStateInternal(PanelState.ANCHORED);
                 }
+
+//                else {
+//                    updateObscuredViewVisibility();
+//                    setPanelStateInternal(PanelState.ANCHORED);
+//                }
             }
         }
 
@@ -1365,28 +1405,56 @@ public class SlidingUpPanelLayout extends ViewGroup {
             // direction is always positive if we are sliding in the expanded direction
             float direction = mIsSlidingUp ? -yvel : yvel;
 
-            if (direction > 0 && mSlideOffset <= mAnchorPoint) {
-                // swipe up -> expand and stop at anchor point
+//            if (direction > 0 && mSlideOffset <= mAnchorPoint) {
+//                // swipe up -> expand and stop at anchor point
+//                target = computePanelTopPosition(mAnchorPoint);
+//            } else if (direction > 0 && mSlideOffset > mAnchorPoint) {
+//                // swipe up past anchor -> expand
+//                target = computePanelTopPosition(1.0f);
+//            } else if (direction < 0 && mSlideOffset >= mAnchorPoint) {
+//                // swipe down -> collapse and stop at anchor point
+//                target = computePanelTopPosition(mAnchorPoint);
+//            } else if (direction < 0 && mSlideOffset < mAnchorPoint) {
+//                // swipe down past anchor -> collapse
+//                target = computePanelTopPosition(0.0f);
+//            } else if (mSlideOffset >= (1.f + mAnchorPoint) / 2) {
+//                // zero velocity, and far enough from anchor point => expand to the top
+//                target = computePanelTopPosition(1.0f);
+//            } else if (mSlideOffset >= mAnchorPoint / 2) {
+//                // zero velocity, and close enough to anchor point => go to anchor
+//                target = computePanelTopPosition(mAnchorPoint);
+//            } else {
+//                // settle at the bottom
+//                target = computePanelTopPosition(0.0f);
+//            }
+
+
+            if (direction > 0 && mSlideOffset>0.5 && mSlideOffset <= mAnchorPoint) {
+                Log.i(tag, "swipe up: <0.5  direction > 0 ");
                 target = computePanelTopPosition(mAnchorPoint);
-            } else if (direction > 0 && mSlideOffset > mAnchorPoint) {
-                // swipe up past anchor -> expand
-                target = computePanelTopPosition(1.0f);
-            } else if (direction < 0 && mSlideOffset >= mAnchorPoint) {
-                // swipe down -> collapse and stop at anchor point
-                target = computePanelTopPosition(mAnchorPoint);
-            } else if (direction < 0 && mSlideOffset < mAnchorPoint) {
-                // swipe down past anchor -> collapse
+            }  else if (direction > 0 && mSlideOffset<0.5 && mSlideOffset <= mAnchorPoint) {
+                Log.i(tag, "swipe up: >0.5  direction > 0 ");
+                target = computePanelTopPosition(0.5f);
+            }  else if (direction < 0 && mSlideOffset<0.5 &&mSlideOffset < mAnchorPoint) {
+                Log.i(tag, "swipe down: <0.5 direction < 0 ");
                 target = computePanelTopPosition(0.0f);
-            } else if (mSlideOffset >= (1.f + mAnchorPoint) / 2) {
-                // zero velocity, and far enough from anchor point => expand to the top
-                target = computePanelTopPosition(1.0f);
-            } else if (mSlideOffset >= mAnchorPoint / 2) {
-                // zero velocity, and close enough to anchor point => go to anchor
-                target = computePanelTopPosition(mAnchorPoint);
-            } else {
-                // settle at the bottom
+            }  else if (direction < 0 && mSlideOffset>0.5 &&mSlideOffset < mAnchorPoint) {
+                Log.i(tag, "swipe down: >0.5 direction < 0");
+                target = computePanelTopPosition(0.5f);
+            }  else if( direction ==-0.0 && mSlideOffset>0.5 &&mSlideOffset < mAnchorPoint){
+                Log.i(tag,"direction ==-0.0 mSlideOffset:"+mSlideOffset);
+
+                target = computePanelTopPosition(0.5f);
+            }  else if( direction ==-0.0 && mSlideOffset<0.5 &&mSlideOffset < 0.5){
                 target = computePanelTopPosition(0.0f);
+            }  else if( direction ==-0.0 && mSlideOffset<0.5 &&mSlideOffset > 0.5){
+                target = computePanelTopPosition(0.5f);
             }
+
+            Log.i(tag,"direction: "+direction);
+            Log.i(tag,"mSlideOffset: "+mSlideOffset);
+            Log.i(tag,"mAnchorPoint: "+mAnchorPoint);
+            Log.i(tag,"target: "+target);
 
             mDragHelper.settleCapturedViewAt(releasedChild.getLeft(), target);
             invalidate();
