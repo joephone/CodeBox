@@ -16,6 +16,7 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ImageView;
 import android.widget.ListView;
 
+//import com.joephone.codebox.act.appstart.act.MyLauncherGuideAct;
 import com.joephone.codebox.adapter.IndexAdapter;
 
 import java.util.ArrayList;
@@ -56,12 +57,13 @@ public class IndexActivity extends Activity {
         sourceList.add("ListView 效果集合");
         sourceList.add("Pic 图像处理");
         sourceList.add("vPager 广告轮播");
-//		sourceList.add("窗口添加机制");
-//		sourceList.add("动画 Animation");
-//		sourceList.add("通知 Notification");
-//		sourceList.add("侧滑菜单 slidemenu");
-//		sourceList.add("经典事例 classic");
-//		sourceList.add("其他");
+		sourceList.add("窗口添加机制");
+		sourceList.add("动画 Animation");
+		sourceList.add("通知 Notification");
+		sourceList.add("sliding集合");
+		sourceList.add("经典事例 classic");
+		sourceList.add("其他");
+        sourceList.add("app start");
         adapter = new IndexAdapter(this, sourceList);
         lvIndex.setAdapter(adapter);
     }
@@ -112,10 +114,10 @@ public class IndexActivity extends Activity {
 //				intent = new Intent(context, NotificationIndex.class);
 //				startActivity(intent);
 //				break;
-//			case 9:
-//				intent = new Intent(context, SlideIndex.class);
-//				startActivity(intent);
-//				break;
+			case 9:
+				intent = new Intent(context, SlideIndex.class);
+				startActivity(intent);
+				break;
 //			case 10:
 //				intent = new Intent(context, ClassicIndex.class);
 //				startActivity(intent);
@@ -124,6 +126,12 @@ public class IndexActivity extends Activity {
 //				intent = new Intent(context, OtherIndex.class);
 //				startActivity(intent);
 //				break;
+//			case 12:
+//				intent = new Intent(context, MyLauncherGuideAct.class);
+//				startActivity(intent);
+//				break;
+
+
 //			default:
 //				break;
             }

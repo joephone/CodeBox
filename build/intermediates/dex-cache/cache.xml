@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\exploded-aar\CodeBox\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a4ea39a535901772c63fb0b42ef9ab1b9e90d7e7">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\pre-dexed\debug\CodeBox-library-unspecified_550e0189c5c28900219d0be87bf9a1943e8bdf20.jar" />
+    </item>
+
+</items>

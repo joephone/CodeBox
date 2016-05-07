@@ -32,7 +32,10 @@
             android:name=".ListIndex"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle"/>
-
+        <activity
+            android:name=".SlideIndex"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
 
         <!-- scroll -->
         <activity
@@ -67,6 +70,15 @@
 
 
         <!-- end list -->
+
+        <!-- sliding -->
+        <activity
+            android:name=".act.sliding.act.SlidingUpPanelAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+        <!-- end sliding -->
+
+
     </application>
 
 </manifest>
