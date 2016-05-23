@@ -47,7 +47,7 @@
     <favorites_list name="CodeBox" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
@@ -58,14 +58,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SlidingUpPanelAct.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SlidingUpPanelAct.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/joephone/codebox/act/sliding/act/SlidingUpPanelAct.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.016949">
-              <caret line="83" column="37" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.35788262">
+              <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2433#2441#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,7 +73,7 @@
       <file leaf-file-name="sliding_uppanel.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/sliding_uppanel.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="7.7966104">
+            <state vertical-scroll-proportion="0.0">
               <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
               <folding />
             </state>
@@ -84,19 +83,73 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SlidingUpPanelLayout.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SlidingUpPanelLayout.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/library/src/main/java/com/sothree/slidinguppanel/SlidingUpPanelLayout.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="4.5394735">
-              <caret line="1511" column="60" selection-start-line="1511" selection-start-column="60" selection-end-line="1511" selection-end-column="60" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1451" column="13" selection-start-line="1451" selection-start-column="13" selection-end-line="1451" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#7484#7485#0" expanded="false" />
+                <element signature="e#7519#7520#0" expanded="false" />
+                <element signature="e#7591#7592#0" expanded="false" />
+                <element signature="e#7630#7631#0" expanded="false" />
+                <element signature="e#12292#12293#0" expanded="false" />
+                <element signature="e#12332#12333#0" expanded="false" />
+                <element signature="e#12472#12473#0" expanded="false" />
+                <element signature="e#12513#12514#0" expanded="false" />
+                <element signature="e#13156#13157#0" expanded="false" />
+                <element signature="e#13191#13192#0" expanded="false" />
+                <element signature="e#13284#13285#0" expanded="false" />
+                <element signature="e#13320#13321#0" expanded="false" />
+                <element signature="e#13654#13655#0" expanded="false" />
+                <element signature="e#13689#13690#0" expanded="false" />
+                <element signature="e#14343#14344#0" expanded="false" />
+                <element signature="e#14383#14384#0" expanded="false" />
+                <element signature="e#14539#14540#0" expanded="false" />
+                <element signature="e#14578#14579#0" expanded="false" />
+                <element signature="e#17270#17271#0" expanded="false" />
+                <element signature="e#17318#17319#0" expanded="false" />
+                <element signature="e#18191#18192#0" expanded="false" />
+                <element signature="e#18226#18227#0" expanded="false" />
+                <element signature="e#18382#18383#0" expanded="false" />
+                <element signature="e#18425#18426#0" expanded="false" />
+                <element signature="e#18525#18526#0" expanded="false" />
+                <element signature="e#18563#18564#0" expanded="false" />
+                <element signature="e#18730#18731#0" expanded="false" />
+                <element signature="e#18763#18764#0" expanded="false" />
+                <element signature="e#18895#18896#0" expanded="false" />
+                <element signature="e#18928#18929#0" expanded="false" />
+                <element signature="e#36897#36898#0" expanded="false" />
+                <element signature="e#36931#36932#0" expanded="false" />
+                <element signature="e#45417#45418#0" expanded="false" />
+                <element signature="e#45458#45459#0" expanded="false" />
+                <element signature="e#51714#51715#0" expanded="false" />
+                <element signature="e#51756#51757#0" expanded="false" />
+                <element signature="e#52462#52463#0" expanded="false" />
+                <element signature="e#52519#52520#0" expanded="false" />
+                <element signature="e#52573#52574#0" expanded="false" />
+                <element signature="e#52617#52618#0" expanded="false" />
+                <element signature="e#52825#52826#0" expanded="false" />
+                <element signature="e#52862#52863#0" expanded="false" />
+                <element signature="e#52920#52921#0" expanded="false" />
+                <element signature="e#52957#52958#0" expanded="false" />
+                <element signature="e#53009#53010#0" expanded="false" />
+                <element signature="e#53046#53047#0" expanded="false" />
+                <element signature="e#53479#53480#0" expanded="false" />
+                <element signature="e#53520#53521#0" expanded="false" />
+                <element signature="e#54354#54355#0" expanded="false" />
+                <element signature="e#54427#54428#0" expanded="false" />
+                <element signature="e#54519#54520#0" expanded="false" />
+                <element signature="e#54594#54595#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -2764,18 +2817,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeBox" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2881,6 +2922,18 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodeBox" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2888,6 +2941,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="show.do.not.copy.http.proxy.settings.to.gradle" value="false" />
     <property name="device.picker.selection" value="aa7021c" />
+    <property name="last_opened_file_path" value="D:/workspace_catches" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -3165,6 +3219,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="001f4ce9-b091-4a9c-b050-f0dfe4b48111" name="Default" comment="" />
@@ -3175,38 +3232,46 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22494432" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22494432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21215352" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21215352" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -3216,6 +3281,186 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/joephone/codebox/act/sliding/act/SlidingUpPanelAct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/sliding_uppanel.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/main/java/com/sothree/slidinguppanel/SlidingUpPanelLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1451" column="13" selection-start-line="1451" selection-start-column="13" selection-end-line="1451" selection-end-column="13" />
+          <folding>
+            <element signature="e#7484#7485#0" expanded="false" />
+            <element signature="e#7519#7520#0" expanded="false" />
+            <element signature="e#7591#7592#0" expanded="false" />
+            <element signature="e#7630#7631#0" expanded="false" />
+            <element signature="e#12292#12293#0" expanded="false" />
+            <element signature="e#12332#12333#0" expanded="false" />
+            <element signature="e#12472#12473#0" expanded="false" />
+            <element signature="e#12513#12514#0" expanded="false" />
+            <element signature="e#13156#13157#0" expanded="false" />
+            <element signature="e#13191#13192#0" expanded="false" />
+            <element signature="e#13284#13285#0" expanded="false" />
+            <element signature="e#13320#13321#0" expanded="false" />
+            <element signature="e#13654#13655#0" expanded="false" />
+            <element signature="e#13689#13690#0" expanded="false" />
+            <element signature="e#14343#14344#0" expanded="false" />
+            <element signature="e#14383#14384#0" expanded="false" />
+            <element signature="e#14539#14540#0" expanded="false" />
+            <element signature="e#14578#14579#0" expanded="false" />
+            <element signature="e#17270#17271#0" expanded="false" />
+            <element signature="e#17318#17319#0" expanded="false" />
+            <element signature="e#18191#18192#0" expanded="false" />
+            <element signature="e#18226#18227#0" expanded="false" />
+            <element signature="e#18382#18383#0" expanded="false" />
+            <element signature="e#18425#18426#0" expanded="false" />
+            <element signature="e#18525#18526#0" expanded="false" />
+            <element signature="e#18563#18564#0" expanded="false" />
+            <element signature="e#18730#18731#0" expanded="false" />
+            <element signature="e#18763#18764#0" expanded="false" />
+            <element signature="e#18895#18896#0" expanded="false" />
+            <element signature="e#18928#18929#0" expanded="false" />
+            <element signature="e#36897#36898#0" expanded="false" />
+            <element signature="e#36931#36932#0" expanded="false" />
+            <element signature="e#45417#45418#0" expanded="false" />
+            <element signature="e#45458#45459#0" expanded="false" />
+            <element signature="e#51714#51715#0" expanded="false" />
+            <element signature="e#51756#51757#0" expanded="false" />
+            <element signature="e#52462#52463#0" expanded="false" />
+            <element signature="e#52519#52520#0" expanded="false" />
+            <element signature="e#52573#52574#0" expanded="false" />
+            <element signature="e#52617#52618#0" expanded="false" />
+            <element signature="e#52825#52826#0" expanded="false" />
+            <element signature="e#52862#52863#0" expanded="false" />
+            <element signature="e#52920#52921#0" expanded="false" />
+            <element signature="e#52957#52958#0" expanded="false" />
+            <element signature="e#53009#53010#0" expanded="false" />
+            <element signature="e#53046#53047#0" expanded="false" />
+            <element signature="e#53479#53480#0" expanded="false" />
+            <element signature="e#53520#53521#0" expanded="false" />
+            <element signature="e#54354#54355#0" expanded="false" />
+            <element signature="e#54427#54428#0" expanded="false" />
+            <element signature="e#54519#54520#0" expanded="false" />
+            <element signature="e#54594#54595#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/joephone/codebox/act/sliding/act/SlidingUpPanelAct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/sliding_uppanel.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/main/java/com/sothree/slidinguppanel/SlidingUpPanelLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1451" column="13" selection-start-line="1451" selection-start-column="13" selection-end-line="1451" selection-end-column="13" />
+          <folding>
+            <element signature="e#7484#7485#0" expanded="false" />
+            <element signature="e#7519#7520#0" expanded="false" />
+            <element signature="e#7591#7592#0" expanded="false" />
+            <element signature="e#7630#7631#0" expanded="false" />
+            <element signature="e#12292#12293#0" expanded="false" />
+            <element signature="e#12332#12333#0" expanded="false" />
+            <element signature="e#12472#12473#0" expanded="false" />
+            <element signature="e#12513#12514#0" expanded="false" />
+            <element signature="e#13156#13157#0" expanded="false" />
+            <element signature="e#13191#13192#0" expanded="false" />
+            <element signature="e#13284#13285#0" expanded="false" />
+            <element signature="e#13320#13321#0" expanded="false" />
+            <element signature="e#13654#13655#0" expanded="false" />
+            <element signature="e#13689#13690#0" expanded="false" />
+            <element signature="e#14343#14344#0" expanded="false" />
+            <element signature="e#14383#14384#0" expanded="false" />
+            <element signature="e#14539#14540#0" expanded="false" />
+            <element signature="e#14578#14579#0" expanded="false" />
+            <element signature="e#17270#17271#0" expanded="false" />
+            <element signature="e#17318#17319#0" expanded="false" />
+            <element signature="e#18191#18192#0" expanded="false" />
+            <element signature="e#18226#18227#0" expanded="false" />
+            <element signature="e#18382#18383#0" expanded="false" />
+            <element signature="e#18425#18426#0" expanded="false" />
+            <element signature="e#18525#18526#0" expanded="false" />
+            <element signature="e#18563#18564#0" expanded="false" />
+            <element signature="e#18730#18731#0" expanded="false" />
+            <element signature="e#18763#18764#0" expanded="false" />
+            <element signature="e#18895#18896#0" expanded="false" />
+            <element signature="e#18928#18929#0" expanded="false" />
+            <element signature="e#36897#36898#0" expanded="false" />
+            <element signature="e#36931#36932#0" expanded="false" />
+            <element signature="e#45417#45418#0" expanded="false" />
+            <element signature="e#45458#45459#0" expanded="false" />
+            <element signature="e#51714#51715#0" expanded="false" />
+            <element signature="e#51756#51757#0" expanded="false" />
+            <element signature="e#52462#52463#0" expanded="false" />
+            <element signature="e#52519#52520#0" expanded="false" />
+            <element signature="e#52573#52574#0" expanded="false" />
+            <element signature="e#52617#52618#0" expanded="false" />
+            <element signature="e#52825#52826#0" expanded="false" />
+            <element signature="e#52862#52863#0" expanded="false" />
+            <element signature="e#52920#52921#0" expanded="false" />
+            <element signature="e#52957#52958#0" expanded="false" />
+            <element signature="e#53009#53010#0" expanded="false" />
+            <element signature="e#53046#53047#0" expanded="false" />
+            <element signature="e#53479#53480#0" expanded="false" />
+            <element signature="e#53520#53521#0" expanded="false" />
+            <element signature="e#54354#54355#0" expanded="false" />
+            <element signature="e#54427#54428#0" expanded="false" />
+            <element signature="e#54519#54520#0" expanded="false" />
+            <element signature="e#54594#54595#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3236,7 +3481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3260,7 +3504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.18673648">
           <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3268,7 +3511,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17452008">
           <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3276,7 +3518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20942408">
           <caret line="9" column="80" selection-start-line="9" selection-start-column="80" selection-end-line="9" selection-end-column="80" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3284,7 +3525,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5584642">
           <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3303,13 +3543,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.3133857">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/sliding_uppanel.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="7.7966104">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
           <folding />
         </state>
@@ -3318,21 +3557,71 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/joephone/codebox/act/sliding/act/SlidingUpPanelAct.java">
+    <entry file="file://$PROJECT_DIR$/library/src/main/java/com/sothree/slidinguppanel/SlidingUpPanelLayout.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.016949">
-          <caret line="83" column="37" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1451" column="13" selection-start-line="1451" selection-start-column="13" selection-end-line="1451" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2433#2441#0" expanded="true" />
+            <element signature="e#7484#7485#0" expanded="false" />
+            <element signature="e#7519#7520#0" expanded="false" />
+            <element signature="e#7591#7592#0" expanded="false" />
+            <element signature="e#7630#7631#0" expanded="false" />
+            <element signature="e#12292#12293#0" expanded="false" />
+            <element signature="e#12332#12333#0" expanded="false" />
+            <element signature="e#12472#12473#0" expanded="false" />
+            <element signature="e#12513#12514#0" expanded="false" />
+            <element signature="e#13156#13157#0" expanded="false" />
+            <element signature="e#13191#13192#0" expanded="false" />
+            <element signature="e#13284#13285#0" expanded="false" />
+            <element signature="e#13320#13321#0" expanded="false" />
+            <element signature="e#13654#13655#0" expanded="false" />
+            <element signature="e#13689#13690#0" expanded="false" />
+            <element signature="e#14343#14344#0" expanded="false" />
+            <element signature="e#14383#14384#0" expanded="false" />
+            <element signature="e#14539#14540#0" expanded="false" />
+            <element signature="e#14578#14579#0" expanded="false" />
+            <element signature="e#17270#17271#0" expanded="false" />
+            <element signature="e#17318#17319#0" expanded="false" />
+            <element signature="e#18191#18192#0" expanded="false" />
+            <element signature="e#18226#18227#0" expanded="false" />
+            <element signature="e#18382#18383#0" expanded="false" />
+            <element signature="e#18425#18426#0" expanded="false" />
+            <element signature="e#18525#18526#0" expanded="false" />
+            <element signature="e#18563#18564#0" expanded="false" />
+            <element signature="e#18730#18731#0" expanded="false" />
+            <element signature="e#18763#18764#0" expanded="false" />
+            <element signature="e#18895#18896#0" expanded="false" />
+            <element signature="e#18928#18929#0" expanded="false" />
+            <element signature="e#36897#36898#0" expanded="false" />
+            <element signature="e#36931#36932#0" expanded="false" />
+            <element signature="e#45417#45418#0" expanded="false" />
+            <element signature="e#45458#45459#0" expanded="false" />
+            <element signature="e#51714#51715#0" expanded="false" />
+            <element signature="e#51756#51757#0" expanded="false" />
+            <element signature="e#52462#52463#0" expanded="false" />
+            <element signature="e#52519#52520#0" expanded="false" />
+            <element signature="e#52573#52574#0" expanded="false" />
+            <element signature="e#52617#52618#0" expanded="false" />
+            <element signature="e#52825#52826#0" expanded="false" />
+            <element signature="e#52862#52863#0" expanded="false" />
+            <element signature="e#52920#52921#0" expanded="false" />
+            <element signature="e#52957#52958#0" expanded="false" />
+            <element signature="e#53009#53010#0" expanded="false" />
+            <element signature="e#53046#53047#0" expanded="false" />
+            <element signature="e#53479#53480#0" expanded="false" />
+            <element signature="e#53520#53521#0" expanded="false" />
+            <element signature="e#54354#54355#0" expanded="false" />
+            <element signature="e#54427#54428#0" expanded="false" />
+            <element signature="e#54519#54520#0" expanded="false" />
+            <element signature="e#54594#54595#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/library/src/main/java/com/sothree/slidinguppanel/SlidingUpPanelLayout.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/joephone/codebox/act/sliding/act/SlidingUpPanelAct.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.5394735">
-          <caret line="1511" column="60" selection-start-line="1511" selection-start-column="60" selection-end-line="1511" selection-end-column="60" />
+        <state vertical-scroll-proportion="0.35788262">
+          <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
