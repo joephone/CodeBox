@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- drop back -->
+    <declare-styleable name="DropBackListView">
+        <attr name="headimage" format="reference|color" />
+    </declare-styleable>
+    
+    <!-- step view -->
+    <declare-styleable name="StepsViewIndicator">
+        <attr name="numOfSteps" format="integer" />
+    </declare-styleable>
+
+    <!-- segmented control -->
+    <declare-styleable name="MultipleSelectionButton">
+        <attr name="ascv_unselectedTextColor" format="reference"/>
+        <attr name="ascv_unselectedColor" format="reference"/>
+        <attr name="ascv_selectedColor" format="reference"/>
+        <attr name="ascv_selectedTextColor" format="reference"/>
+        <attr name="ascv_items" format="reference"/>
+        <attr name="ascv_values" format="reference"/>
+        <attr name="ascv_equalWidth" format="boolean"/>
+        <attr name="ascv_stretch" format="boolean"/>
+        <attr name="ascv_defaultSelection" format="integer"/>
+        <attr name="ascv_identifier" format="string"/>
+    </declare-styleable>
+    
+    <!-- Gallary ImageSwitcher -->
+    <declare-styleable name="MyView">
+		<attr name="textColor" format="color" />
+		<attr name="textSize" format="dimension" />
+	</declare-styleable>
+
+	<declare-styleable name="Gallery">
+		<attr name="android:galleryItemBackground" />
+	</declare-styleable>
+</resources>

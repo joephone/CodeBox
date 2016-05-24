@@ -12,6 +12,9 @@
     <dimen name="vpager_ad_small_padding">1dp</dimen>
     <dimen name="vpager_ad_padding">6dp</dimen>
 
+    <dimen name="thumnail_default_width">100dip</dimen>
+    <dimen name="thumnail_default_height">100dip</dimen>
+
     <!-- 通用 -->
     <dimen name="size_10">10sp</dimen>
     <dimen name="size_11">12sp</dimen>

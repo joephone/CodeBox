@@ -6,6 +6,19 @@
 
     <!-- 分割线 -->
     <color name="line">#dadada</color>
+    <color name="bg_gray">#fafafa</color>
+    <color name="line_stroke">#eeeeee</color>
+    <color name="light_black">#fafafa</color>
+
+    <color name="main_text">#ffbf13</color>
+    <color name="default_text">#a0a0a0</color>
+    <color name="main_text_sel">#959595</color>
+    <color name="text_common">#1b1b1b</color>
+    <color name="selector_liner_color">#c6c6c6</color>
+    <color name="item_press">#f3f3f3</color>
+    <color name="white_smoke">#f0f0f1</color>
+    <color name="dark_orange">#AF4C10</color>
+    <color name="dark_white">#FCFCFA</color>
     <!-- 淡灰色 -->
     <color name="android_green">#32CD32</color>
     <color name="gainsboro">#dcdcdc</color>
@@ -45,6 +58,12 @@
 	<color name="lanse">#00BFFF</color>
 	<color name="searchfriend_sel">#1fc8ff</color>
 	<color name="all_view">#c7ced0</color>
+    <color name="lake_green">#8FC7C8</color>
+    <color name="island_green">#007143</color>
+
+    <color name="title_color">#37BCB2</color>
+    <color name="black6c">#CCCCCC</color>
+    <color name="black6e">#eeeeee</color>
     <!-- step view -->
 
     <color name="red50">#fde0dc</color>
@@ -322,8 +341,11 @@
     <color name="green_light">#ff99cc00</color>
     <color name="orange_light">#ffffbb33</color>
     <color name="blue_light">#ff33b5e5</color>
+    <color name="item_bg_color">#4d000000</color>
     
     <!-- anima -->
     <color name="anima_half_color">#30000000</color>
+
+
 
 </resources>

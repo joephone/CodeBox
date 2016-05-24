@@ -14,4 +14,9 @@
     <string name="action_showHeaderAndFooter">Show Header &amp; Footer</string>
     <string name="action_updateDataset">Update dataset</string>
     <!-- end pinned section list -->
+
+    <!-- fishspot -->
+    <string name="tide">潮汐</string>
+    <string name="navigation">导航</string>
+    <string name="edit">编辑</string>
 </resources>

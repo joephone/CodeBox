@@ -336,7 +336,7 @@ public class PinnedSectionListAct extends ListActivity implements
 				getListView().setFastScrollAlwaysVisible(true);
 			}
 			setListAdapter(new FastScrollAdapter(this,
-					android.R.layout.simple_list_item_1, android.R.id.text1));
+					R.layout.list_simple_item, R.id.tvName));
 		} else {
 			setListAdapter(new SimpleAdapter(this,
 					android.R.layout.simple_list_item_1, android.R.id.text1));

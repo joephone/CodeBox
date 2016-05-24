@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white"
+     >
+    
+	<RelativeLayout 
+	    android:id="@+id/layoutChild"
+	    android:layout_width="match_parent"
+    	android:layout_height="@dimen/dp_60"
+    	android:orientation="horizontal"
+	    >
+	    <ImageView 
+	        android:layout_width="@dimen/dp_25"
+    		android:layout_height="@dimen/dp_25"
+    		android:layout_centerVertical="true"
+    		android:layout_alignParentLeft="true"
+    		android:layout_marginLeft="@dimen/dp_20"
+	        android:src="@drawable/list_fishspot"
+	        />
+	    <TextView 	        
+	        android:id="@+id/tvChildName"
+    		style="@style/more_text"
+    		android:layout_marginLeft="@dimen/dp_60"
+    		android:layout_marginRight="40dp"
+    		android:text="圣诞岛"
+	        />
+	    <ImageView
+	        android:id="@+id/ivArrow"
+            style="@style/more_image"
+            android:src="@drawable/right" />
+	    
+	    <TextView 
+	        android:id="@+id/tvEdit"
+	        android:layout_width="@dimen/dp_70"
+    		android:layout_height="match_parent"
+    		android:layout_alignParentRight="true"
+    		android:background="@color/green500"
+    		android:gravity="center"
+    		android:visibility="gone"
+    		android:text="编辑"
+    		android:textColor="@color/white"
+    		android:textSize="@dimen/size_18"
+	        />
+	    <TextView 
+	        android:id="@+id/tvDelete"
+	        android:layout_width="@dimen/dp_70"
+    		android:layout_height="match_parent"
+    		android:layout_toLeftOf="@id/tvEdit"
+    		android:background="@color/red"
+    		android:gravity="center"
+    		android:visibility="gone"
+    		android:text="删除"
+    		android:textColor="@color/white"
+    		android:textSize="@dimen/size_18"
+	        />
+	</RelativeLayout>
+	<View 
+	    android:layout_width="match_parent"
+    	android:layout_height="0.5dp"
+    	android:layout_marginLeft="10dp"
+    	android:background="@color/line"
+	    />
+</LinearLayout>
