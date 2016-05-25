@@ -75,14 +75,6 @@
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle"/>
         <activity
-            android:name=".act.list.act.IphoneExpandListAct"
-            android:screenOrientation="portrait"
-            android:theme="@style/NoTitle"/>
-        <activity
-            android:name=".act.list.act.SimpleListAct"
-            android:screenOrientation="portrait"
-            android:theme="@style/NoTitle"/>
-        <activity
             android:name=".act.list.act.ListHeaderActivity"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle"/>

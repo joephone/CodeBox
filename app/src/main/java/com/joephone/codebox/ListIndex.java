@@ -13,12 +13,10 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 import com.joephone.codebox.act.list.act.DropBackAct;
-import com.joephone.codebox.act.list.act.IphoneExpandListAct;
 import com.joephone.codebox.act.list.act.ListEditorAct;
 import com.joephone.codebox.act.list.act.ListHeaderActivity;
 import com.joephone.codebox.act.list.act.NahuanjinActivity;
 import com.joephone.codebox.act.list.act.PinnedSectionListAct;
-import com.joephone.codebox.act.list.act.SimpleListAct;
 import com.joephone.codebox.act.list.act.TimeLineAct;
 import com.joephone.codebox.adapter.IndexAdapter;
 
@@ -66,8 +64,6 @@ public class ListIndex extends Activity {
         sourceList.add("固定组标题的实现   PinnedHeadList");
         sourceList.add("侧滑");
         sourceList.add("横向南怀瑾");
-        sourceList.add("IphoneExpandListAct");
-        sourceList.add("SimpleListAct");
         sourceList.add("ListHeaderActivity");
 
         adapter = new IndexAdapter(this, sourceList);
@@ -112,14 +108,6 @@ public class ListIndex extends Activity {
                     startActivity(intent);
                     break;
                 case 7:
-                    intent = new Intent(context, IphoneExpandListAct.class);
-                    startActivity(intent);
-                    break;
-                case 8:
-                    intent = new Intent(context, SimpleListAct.class);
-                    startActivity(intent);
-                    break;
-                case 9:
                     intent = new Intent(context, ListHeaderActivity.class);
                     startActivity(intent);
                     break;
