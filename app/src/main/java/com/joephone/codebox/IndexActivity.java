@@ -15,7 +15,6 @@ import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ImageView;
 import android.widget.ListView;
-
 import com.joephone.codebox.act.appstart.act.MyLauncherGuideAct;
 import com.joephone.codebox.adapter.IndexAdapter;
 
@@ -115,8 +114,7 @@ public class IndexActivity extends Activity {
 //				startActivity(intent);
 //				break;
 			case 9:
-				intent = new Intent(context, SlideIndex.class);
-				startActivity(intent);
+
 				break;
 //			case 10:
 //				intent = new Intent(context, ClassicIndex.class);
@@ -126,10 +124,12 @@ public class IndexActivity extends Activity {
 //				intent = new Intent(context, OtherIndex.class);
 //				startActivity(intent);
 //				break;
+
 			case 12:
 				intent = new Intent(context, MyLauncherGuideAct.class);
 				startActivity(intent);
 				break;
+
 
 
 //			default:

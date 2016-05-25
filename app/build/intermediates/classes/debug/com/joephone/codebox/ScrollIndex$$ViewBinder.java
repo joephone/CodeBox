@@ -1,0 +1,32 @@
+// Generated code from Butter Knife. Do not modify!
+package com.joephone.codebox;
+
+import android.view.View;
+import butterknife.ButterKnife.Finder;
+import butterknife.ButterKnife.ViewBinder;
+
+public class ScrollIndex$$ViewBinder<T extends com.joephone.codebox.ScrollIndex> implements ViewBinder<T> {
+  @Override public void bind(final Finder finder, final T target, Object source) {
+    View view;
+    view = finder.findRequiredView(source, 2131558621, "field 'back' and method 'onClick'");
+    target.back = finder.castView(view, 2131558621, "field 'back'");
+    view.setOnClickListener(
+      new butterknife.internal.DebouncingOnClickListener() {
+        @Override public void doClick(
+          android.view.View p0
+        ) {
+          target.onClick(p0);
+        }
+      });
+    view = finder.findRequiredView(source, 2131558472, "field 'title'");
+    target.title = finder.castView(view, 2131558472, "field 'title'");
+    view = finder.findRequiredView(source, 2131558562, "field 'lvIndex'");
+    target.lvIndex = finder.castView(view, 2131558562, "field 'lvIndex'");
+  }
+
+  @Override public void unbind(T target) {
+    target.back = null;
+    target.title = null;
+    target.lvIndex = null;
+  }
+}

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_0b590dfe6a1df2d9de228832ee7c982ca54e179f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_574814c35a7cb5a12390cd20149db3dc67d0251f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.0\f1e24ac977505d1fdcabadaa5be1f41dc11c4286\butterknife-7.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f1e24ac977505d1fdcabadaa5be1f41dc11c4286">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\pre-dexed\debug\butterknife-7.0.0_cdffcaeeececa2f5b7f8850f48173c48a03aff79.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_92b232f2dea01a97547ca8135de81c8c0a0f1b27.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\exploded-aar\CodeBox\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="90401842c76e6536d6f3647ae6c67fe6619a11c9">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\pre-dexed\debug\CodeBox-library-unspecified_550e0189c5c28900219d0be87bf9a1943e8bdf20.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_36f393a478e43daf45a840ccfa4c039a4ac82c10.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\pre-dexed\debug\library-2.4.0_dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_07bdad5743f0ef769c0b4bf6889e4ecd3dbca46c.jar" />
+    </item>
+    <item
+        jar="D:\Program Files\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_20c0d2643e0b1416420761120d49e74c3a2a8982.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_04961d133e62df3bd74c415f5616db55300d4197.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_415558cacd4a63c427e52dc6c089604ee65c697c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\CodeBox\app\libs\AMap_2DMap_V2.8.1_20160202.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0109d970ab16fff07a9a2f22149aecdc1195a4c2">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\pre-dexed\debug\AMap_2DMap_V2.8.1_20160202_ff148e484d9cb3544dea4f9e527737bdbf457e46.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\CodeBox\app\libs\AMap_Location_V2.4.0_20160308.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dd8aedb3d0d87b92777ab997ec883427d88f379a">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\pre-dexed\debug\AMap_Location_V2.4.0_20160308_28b98453bb7349a28be8683d9392f628edf5fc46.jar" />
+    </item>
+
+</items>

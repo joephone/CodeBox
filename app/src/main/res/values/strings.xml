@@ -15,8 +15,15 @@
     <string name="action_updateDataset">Update dataset</string>
     <!-- end pinned section list -->
 
+
     <!-- fishspot -->
     <string name="tide">潮汐</string>
     <string name="navigation">导航</string>
     <string name="edit">编辑</string>
+
+
+
+    <string name="hello"><![CDATA[<b>The Awesome Sliding Up Panel</b><br/> Brought to you by<br/><a href="http://umanoapp.com">http://umanoapp.com</a>]]></string>
+    <string name="follow"><![CDATA[Follow us<br/>on <a href="http://twitter.com/umanoapp">Twitter</a>]]></string>
+
 </resources>
