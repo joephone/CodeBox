@@ -92,20 +92,20 @@
         "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appstart_feature_arrow_down.png",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\drawable-hdpi\\appstart_feature_arrow_down.png"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_default.png",
         "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\drawable-hdpi\\icon_default.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appstart_feature_title.png",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\drawable-hdpi\\appstart_feature_title.png"
+        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appstart_feature_arrow_down.png",
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\drawable-hdpi\\appstart_feature_arrow_down.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\beauty04.jpg",
         "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\drawable-hdpi\\beauty04.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appstart_feature_title.png",
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\drawable-hdpi\\appstart_feature_title.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",

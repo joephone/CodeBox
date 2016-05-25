@@ -29,7 +29,7 @@
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_pinned_section_single.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\list_pinned_section_single.xml"
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_pinned_section_single.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
@@ -61,11 +61,11 @@
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_pulltozoom.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\scroll_pulltozoom.xml"
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_scroll\\layout\\scroll_pulltozoom.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_editor.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\list_editor.xml"
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_editor.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
@@ -77,11 +77,11 @@
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_timeline.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\list_timeline.xml"
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_timeline.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_timeline_child_item.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\list_timeline_child_item.xml"
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_timeline_child_item.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
@@ -101,11 +101,11 @@
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_editor_item.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\list_editor_item.xml"
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_editor_item.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_simple_item.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\list_simple_item.xml"
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_simple_item.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
@@ -121,7 +121,7 @@
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_map_float.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\scroll_map_float.xml"
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_scroll\\layout\\scroll_map_float.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_content.xml",
@@ -133,11 +133,11 @@
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_top_float_meituan.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\scroll_top_float_meituan.xml"
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_scroll\\layout\\scroll_top_float_meituan.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_header.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\list_header.xml"
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_header.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
@@ -177,7 +177,7 @@
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_pinned_section_layout.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\list_pinned_section_layout.xml"
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_pinned_section_layout.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_list_group_item.xml",
@@ -185,7 +185,7 @@
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_drop_back_top_img.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\list_drop_back_top_img.xml"
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_drop_back_top_img.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mine_frag_myfishspot_detail.xml",
@@ -281,7 +281,7 @@
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_timeline_group_item.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\list_timeline_group_item.xml"
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_timeline_group_item.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
@@ -305,7 +305,7 @@
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_pulltozoom_halftop.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\scroll_pulltozoom_halftop.xml"
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_scroll\\layout\\scroll_pulltozoom_halftop.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
@@ -325,7 +325,7 @@
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_drop_back.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\list_drop_back.xml"
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_drop_back.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
@@ -353,7 +353,7 @@
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_drop_back_item.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\list_drop_back_item.xml"
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_drop_back_item.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
