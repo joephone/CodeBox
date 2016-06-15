@@ -36,7 +36,7 @@ public class SlidingUpPanelAct extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.sliding_uppanel);
+        setContentView(R.layout.sliding_up_panel);
 
 
         ListView lv = (ListView) findViewById(R.id.list);

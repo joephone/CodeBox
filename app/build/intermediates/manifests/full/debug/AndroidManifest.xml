@@ -8,6 +8,9 @@
         android:minSdkVersion="15"
         android:targetSdkVersion="23" />
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -35,6 +38,10 @@
             android:theme="@style/NoTitle" />
         <activity
             android:name="com.joephone.codebox.ListIndex"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
+        <activity
+            android:name="com.joephone.codebox.VPagerIndex"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle" />
         <activity
@@ -92,7 +99,7 @@
         <activity
             android:name="com.joephone.codebox.act.sliding.act.SlidingUpPanelAct"
             android:screenOrientation="portrait"
-            android:theme="@style/AppTheme" />
+            android:theme="@style/NoTitle" />
         <!-- end sliding -->
 
 
@@ -123,6 +130,19 @@
             android:theme="@style/NoTitle" />
 
         <!-- end sliding -->
+
+
+        <!-- vpager -->
+        <activity
+            android:name="com.joephone.codebox.act.vpager.act.HuVPagerAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
+        <activity
+            android:name="com.joephone.codebox.act.vpager.act.TrineaAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
+
+        <!-- end vpager -->
 
     </application>
 

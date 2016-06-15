@@ -8,8 +8,8 @@ import butterknife.ButterKnife.ViewBinder;
 public class ListIndex$$ViewBinder<T extends com.joephone.codebox.ListIndex> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131558623, "field 'back' and method 'onClick'");
-    target.back = finder.castView(view, 2131558623, "field 'back'");
+    view = finder.findRequiredView(source, 2131558624, "field 'back' and method 'onClick'");
+    target.back = finder.castView(view, 2131558624, "field 'back'");
     view.setOnClickListener(
       new butterknife.internal.DebouncingOnClickListener() {
         @Override public void doClick(
@@ -18,10 +18,10 @@ public class ListIndex$$ViewBinder<T extends com.joephone.codebox.ListIndex> imp
           target.onClick(p0);
         }
       });
-    view = finder.findRequiredView(source, 2131558471, "field 'title'");
-    target.title = finder.castView(view, 2131558471, "field 'title'");
-    view = finder.findRequiredView(source, 2131558561, "field 'lvIndex'");
-    target.lvIndex = finder.castView(view, 2131558561, "field 'lvIndex'");
+    view = finder.findRequiredView(source, 2131558473, "field 'title'");
+    target.title = finder.castView(view, 2131558473, "field 'title'");
+    view = finder.findRequiredView(source, 2131558563, "field 'lvIndex'");
+    target.lvIndex = finder.castView(view, 2131558563, "field 'lvIndex'");
   }
 
   @Override public void unbind(T target) {

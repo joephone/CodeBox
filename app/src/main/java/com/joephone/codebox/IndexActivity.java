@@ -67,6 +67,9 @@ public class IndexActivity extends Activity {
         lvIndex.setAdapter(adapter);
     }
 
+
+
+
     OnItemClickListener lvIndexOnItemClickListner = new OnItemClickListener() {
 
         @Override
@@ -97,10 +100,10 @@ public class IndexActivity extends Activity {
 //				intent = new Intent(context, PicIndex.class);
 //				startActivity(intent);
 //				break;
-//			case 5:
-//				intent = new Intent(context, VPagerIndex.class);
-//				startActivity(intent);
-//				break;
+			case 5:
+				intent = new Intent(context, VPagerIndex.class);
+				startActivity(intent);
+				break;
 //			case 6:
 //				intent = new Intent(context, WindowIndex.class);
 //				startActivity(intent);

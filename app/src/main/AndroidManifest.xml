@@ -2,6 +2,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.joephone.codebox">
 
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -30,6 +34,10 @@
             android:theme="@style/NoTitle"/>
         <activity
             android:name=".ListIndex"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+        <activity
+            android:name=".VPagerIndex"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle"/>
         <activity
@@ -117,6 +125,21 @@
             android:theme="@style/NoTitle"/>
 
         <!-- end sliding -->
+
+
+
+
+        <!-- vpager -->
+        <activity
+            android:name=".act.vpager.act.HuVPagerAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+        <activity
+            android:name=".act.vpager.act.TrineaAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+
+        <!-- end vpager -->
 
     </application>
 
