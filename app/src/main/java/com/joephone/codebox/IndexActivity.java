@@ -114,7 +114,8 @@ public class IndexActivity extends Activity {
 //				startActivity(intent);
 //				break;
 			case 9:
-
+                intent = new Intent(context, SlidingIndex.class);
+                startActivity(intent);
 				break;
 //			case 10:
 //				intent = new Intent(context, ClassicIndex.class);

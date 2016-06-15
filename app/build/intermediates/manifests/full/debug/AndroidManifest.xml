@@ -37,6 +37,10 @@
             android:name="com.joephone.codebox.ListIndex"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle" />
+        <activity
+            android:name="com.joephone.codebox.SlidingIndex"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
 
         <!-- scroll -->
         <activity
@@ -85,7 +89,10 @@
 
         <!-- sliding -->
 
-
+        <activity
+            android:name="com.joephone.codebox.act.sliding.act.SlidingUpPanelAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
         <!-- end sliding -->
 
 

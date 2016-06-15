@@ -8,20 +8,20 @@ import butterknife.ButterKnife.ViewBinder;
 public class MapScrollAct$$ViewBinder<T extends com.joephone.codebox.act.scroll.act.MapScrollAct> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131558594, "field 'layMain'");
-    target.layMain = finder.castView(view, 2131558594, "field 'layMain'");
-    view = finder.findRequiredView(source, 2131558597, "field 'etSearch'");
-    target.etSearch = finder.castView(view, 2131558597, "field 'etSearch'");
-    view = finder.findRequiredView(source, 2131558596, "field 'search02'");
-    target.search02 = finder.castView(view, 2131558596, "field 'search02'");
-    view = finder.findRequiredView(source, 2131558593, "field 'myScrollView'");
-    target.myScrollView = finder.castView(view, 2131558593, "field 'myScrollView'");
-    view = finder.findRequiredView(source, 2131558591, "field 'ivTitle'");
-    target.ivTitle = finder.castView(view, 2131558591, "field 'ivTitle'");
-    view = finder.findRequiredView(source, 2131558592, "field 'search01'");
-    target.search01 = finder.castView(view, 2131558592, "field 'search01'");
-    view = finder.findRequiredView(source, 2131558595, "field 'ivMap'");
-    target.ivMap = finder.castView(view, 2131558595, "field 'ivMap'");
+    view = finder.findRequiredView(source, 2131558593, "field 'layMain'");
+    target.layMain = finder.castView(view, 2131558593, "field 'layMain'");
+    view = finder.findRequiredView(source, 2131558596, "field 'etSearch'");
+    target.etSearch = finder.castView(view, 2131558596, "field 'etSearch'");
+    view = finder.findRequiredView(source, 2131558595, "field 'search02'");
+    target.search02 = finder.castView(view, 2131558595, "field 'search02'");
+    view = finder.findRequiredView(source, 2131558592, "field 'myScrollView'");
+    target.myScrollView = finder.castView(view, 2131558592, "field 'myScrollView'");
+    view = finder.findRequiredView(source, 2131558590, "field 'ivTitle'");
+    target.ivTitle = finder.castView(view, 2131558590, "field 'ivTitle'");
+    view = finder.findRequiredView(source, 2131558591, "field 'search01'");
+    target.search01 = finder.castView(view, 2131558591, "field 'search01'");
+    view = finder.findRequiredView(source, 2131558594, "field 'ivMap'");
+    target.ivMap = finder.castView(view, 2131558594, "field 'ivMap'");
   }
 
   @Override public void unbind(T target) {

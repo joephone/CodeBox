@@ -34,26 +34,25 @@ public final class R {
 	}
 	public static final class drawable {
 		public static final int above_shadow = 0x7f02004b;
-		public static final int below_shadow = 0x7f020064;
-		public static final int image_background = 0x7f02007c;
-		public static final int selector_imageview_background = 0x7f020097;
-		public static final int selector_item_background = 0x7f020098;
+		public static final int below_shadow = 0x7f020065;
+		public static final int image_background = 0x7f02007d;
+		public static final int selector_imageview_background = 0x7f020098;
+		public static final int selector_item_background = 0x7f020099;
 	}
 	public static final class id {
 		public static final int anchored = 0x7f0d0038;
 		public static final int collapsed = 0x7f0d0039;
 		public static final int expanded = 0x7f0d003a;
 		public static final int hidden = 0x7f0d003b;
-		public static final int img_list_item = 0x7f0d0081;
+		public static final int img_list_item = 0x7f0d0080;
 		public static final int item_touch_helper_previous_elevation = 0x7f0d0005;
-		public static final int mid = 0x7f0d003c;
-		public static final int text_list_item = 0x7f0d0082;
+		public static final int text_list_item = 0x7f0d0081;
 	}
 	public static final class layout {
 		public static final int horizontal_list_item = 0x7f04002f;
 	}
 	public static final class string {
-		public static final int app_name = 0x7f06001a;
+		public static final int app_name = 0x7f06001e;
 	}
 	public static final class styleable {
 		public static final int[] RecyclerView = { 0x010100c4, 0x7f0100df, 0x7f0100e0, 0x7f0100e1, 0x7f0100e2 };
