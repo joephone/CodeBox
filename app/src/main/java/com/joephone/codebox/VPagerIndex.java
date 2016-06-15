@@ -54,8 +54,8 @@ public class VPagerIndex extends Activity {
     private void initListView() {
         List<String> sourceList = new ArrayList<String>();
         lvIndex.setOnItemClickListener(lvScrollViewIndexOnItemClickListner);
-        sourceList.add("Hu");
-        sourceList.add("Trinea");
+        sourceList.add("Fragment实现 Hu");
+        sourceList.add("ViewPager实现 Trinea");
 
         adapter = new IndexAdapter(this, sourceList);
         lvIndex.setAdapter(adapter);

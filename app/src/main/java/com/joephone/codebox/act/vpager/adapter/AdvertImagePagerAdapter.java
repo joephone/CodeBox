@@ -13,6 +13,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 
 import com.jakewharton.salvage.RecyclingPagerAdapter;
+import com.nostra13.universalimageloader.core.ImageLoader;
+import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
 
 /**
  * AdvertImagePagerAdapter
@@ -23,20 +25,36 @@ public class AdvertImagePagerAdapter extends RecyclingPagerAdapter {
 
 	private Context context;
 	private List<Integer> imageIdList;
-
+	private List<String> imageUrlList;
+	private String [] imageUrls = new String[]{};
 	private int size;
 	private boolean isInfiniteLoop;
+	private boolean flag;
 
-	public AdvertImagePagerAdapter(Context context, List<Integer> imageIdList) {
+	public AdvertImagePagerAdapter(Context context, List<Integer> imageIdList,boolean flag) {
 		this.context = context;
 		this.imageIdList = imageIdList;
 		this.size = imageIdList.size();
 		isInfiniteLoop = false;
+		this.flag = flag;
+		ImageLoader.getInstance().init(ImageLoaderConfiguration.createDefault(context));
+	}
+
+	public AdvertImagePagerAdapter(Context context, String [] imageUrls,boolean flag) {
+		this.context = context;
+		this.imageUrls = imageUrls;
+		this.size = imageUrls.length;
+		isInfiniteLoop = false;
+		this.flag = flag;
+		ImageLoader.getInstance().init(ImageLoaderConfiguration.createDefault(context));
 	}
 
 	@Override
 	public int getCount() {
 		// Infinite loop
+		if(flag){
+			return isInfiniteLoop ? Integer.MAX_VALUE : imageUrls.length;
+		}
 		return isInfiniteLoop ? Integer.MAX_VALUE : imageIdList.size();
 	}
 
@@ -61,7 +79,13 @@ public class AdvertImagePagerAdapter extends RecyclingPagerAdapter {
 		} else {
 			holder = (ViewHolder) view.getTag();
 		}
-		holder.imageView.setImageResource(imageIdList.get(getPosition(position)));
+
+		if(flag){
+			ImageLoader.getInstance().displayImage(imageUrls[getPosition(position)], holder.imageView);
+		}else {
+			holder.imageView.setImageResource(imageIdList.get(getPosition(position)));
+		}
+
 		return view;
 	}
 

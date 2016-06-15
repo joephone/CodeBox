@@ -7,6 +7,8 @@ import com.joephone.codebox.R;
 import com.joephone.codebox.act.vpager.adapter.AdvertImagePagerAdapter;
 import com.joephone.codebox.act.vpager.view.AutoScrollViewPager;
 import com.joephone.codebox.act.vpager.view.CirclePageIndicatorB;
+import com.nostra13.universalimageloader.core.ImageLoader;
+import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -31,12 +33,18 @@ public class TrineaAct extends Activity {
         setContentView(R.layout.trinaea);
         ButterKnife.bind(this);
 
+
+
         imageIdList = new ArrayList<Integer>();
         imageIdList.add(R.drawable.beauty01);
         imageIdList.add(R.drawable.beauty05);
         imageIdList.add(R.drawable.beauty06);
         imageIdList.add(R.drawable.beauty07);
-        vpTrinae.setAdapter(new AdvertImagePagerAdapter(this, imageIdList));
+
+        String [] imageUrls = this.getResources().getStringArray(R.array.image_url_test);
+
+ //       vpTrinae.setAdapter(new AdvertImagePagerAdapter(this, imageIdList,false));      //本地图片
+        vpTrinae.setAdapter(new AdvertImagePagerAdapter(this, imageUrls,true));      //网络图片
         indicator.setViewPager(vpTrinae);
         vpTrinae.setInterval(2000);
         vpTrinae.startAutoScroll();
