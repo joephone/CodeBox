@@ -357,6 +357,7 @@
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4Dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
+    <color name="province_line_border">#C7C7C7</color>
     <color name="public_bg_gray">#EFEFF4</color>
     <color name="public_orange">#ff7116</color>
     <color name="purple100">#e1bee7</color>
@@ -493,6 +494,7 @@
     <declare-styleable name="MultipleSelectionButton"><attr format="reference" name="ascv_unselectedTextColor"/><attr format="reference" name="ascv_unselectedColor"/><attr format="reference" name="ascv_selectedColor"/><attr format="reference" name="ascv_selectedTextColor"/><attr format="reference" name="ascv_items"/><attr format="reference" name="ascv_values"/><attr format="boolean" name="ascv_equalWidth"/><attr format="boolean" name="ascv_stretch"/><attr format="integer" name="ascv_defaultSelection"/><attr format="string" name="ascv_identifier"/></declare-styleable>
     <declare-styleable name="MyView"><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/></declare-styleable>
     <declare-styleable name="NavigationView"><attr name="android:background"/><attr name="android:fitsSystemWindows"/><attr name="android:maxWidth"/><attr name="elevation"/><attr format="reference" name="menu"/><attr format="color" name="itemIconTint"/><attr format="color" name="itemTextColor"/><attr format="reference" name="itemBackground"/><attr format="reference" name="itemTextAppearance"/><attr format="reference" name="headerLayout"/></declare-styleable>
+    <declare-styleable name="NumberPicker"><attr format="color" name="normalTextColor"/><attr format="dimension" name="normalTextSize"/><attr format="color" name="selecredTextColor"/><attr format="dimension" name="selecredTextSize"/><attr format="dimension" name="unitHight"/><attr format="integer" name="itemNumber"/><attr format="color" name="lineColor"/><attr format="dimension" name="maskHight"/><attr format="boolean" name="noEmpty"/><attr format="boolean" name="isEnable"/></declare-styleable>
     <declare-styleable name="PopupWindow"><attr format="boolean" name="overlapAnchor"/><attr name="android:popupBackground"/></declare-styleable>
     <declare-styleable name="PopupWindowBackgroundState"><attr format="boolean" name="state_above_anchor"/></declare-styleable>
     <declare-styleable name="RecyclerView"><attr format="string" name="layoutManager"/><attr name="android:orientation"/><attr format="integer" name="spanCount"/><attr format="boolean" name="reverseLayout"/><attr format="boolean" name="stackFromEnd"/></declare-styleable>
@@ -750,13 +752,18 @@
     <string name="app_name">CodeBox</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="cancel">取消</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
+    <string name="complete">完成</string>
+    <string name="confirm">确认</string>
     <string name="edit">编辑</string>
     <string name="follow">Follow us&lt;br/>on &lt;a href="http://twitter.com/umanoapp">Twitter&lt;/a></string>
     <string name="hello">&lt;b>The Awesome Sliding Up Panel&lt;/b>&lt;br/> Brought to you by&lt;br/>&lt;a href="http://umanoapp.com">http://umanoapp.com&lt;/a></string>
     <string name="navigation">导航</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="ok">确定</string>
+    <string name="search">搜索</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="tide">潮汐</string>
     <style name="ActionBar" parent="ThemeOverlay.AppCompat.ActionBar">
@@ -764,6 +771,10 @@
     </style>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
+    <style name="AnimBottom" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
     <style name="Animation.Design.BottomSheetDialog" parent="Animation.AppCompat.Dialog">

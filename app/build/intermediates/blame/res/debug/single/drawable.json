@@ -28,6 +28,10 @@
         "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\san_layout_bg.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\drawable\\san_layout_bg.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_divider_fifteen.xml",
         "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\drawable\\list_divider_fifteen.xml"
     },
@@ -82,6 +86,10 @@
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrollview_top_float_bg_edittext_normal.xml",
         "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\drawable\\scrollview_top_float_bg_edittext_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\CodeBox\\library\\unspecified\\res\\drawable\\wheel_bg.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
@@ -160,12 +168,20 @@
         "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shap_rec_blue.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\drawable\\shap_rec_blue.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\above_shadow.xml",
         "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\CodeBox\\library\\unspecified\\res\\drawable\\above_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\CodeBox\\library\\unspecified\\res\\drawable\\wheel_val.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",

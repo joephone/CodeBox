@@ -20,12 +20,20 @@
         "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\CodeBox\\library\\unspecified\\res\\layout\\view_cycle_viewpager_indicator.xml"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_citys_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\select_citys_dialog.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
         "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_pinned_section_single.xml",
         "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_pinned_section_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\city_picker_pop.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\city_picker_pop.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appstart_scrollview.xml",
@@ -42,6 +50,10 @@
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_pulltozoom.xml",
         "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_scroll\\layout\\scroll_pulltozoom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_citys_main.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\select_citys_main.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_editor.xml",
@@ -78,6 +90,10 @@
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_map_float.xml",
         "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_scroll\\layout\\scroll_map_float.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\san_main.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\san_main.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_3.xml",
@@ -160,8 +176,16 @@
         "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_timeline_group_item.xml"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\city_picker_main.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\city_picker_main.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_cn.xml",
         "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\sliding_cn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_area.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\pop_area.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
@@ -186,6 +210,10 @@
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_drop_back_item.xml",
         "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_drop_back_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\city_picker.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\city_picker.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
@@ -324,12 +352,12 @@
         "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\map_list_children_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appstart_guide.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\appstart_guide.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appstart_guide.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\appstart_guide.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",

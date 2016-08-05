@@ -21,4 +21,7 @@
         <attr name="umanoScrollInterpolator" format="reference" />
     </declare-styleable>
 
+
+
+
 </resources>

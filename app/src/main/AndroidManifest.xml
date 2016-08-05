@@ -9,12 +9,11 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
             android:name=".IndexActivity"
-            android:label="@string/app_name"
+            android:screenOrientation="portrait"
             android:theme="@style/NoTitle"
             >
             <intent-filter>
@@ -44,7 +43,10 @@
             android:name=".SlidingIndex"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle"/>
-
+        <activity
+            android:name=".ClassicIndex"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
 
         <!-- scroll -->
         <activity
@@ -140,6 +142,34 @@
             android:theme="@style/NoTitle"/>
 
         <!-- end vpager -->
+
+        <!-- classic -->
+        <activity
+            android:name=".act.classic.act.SanMainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+        <activity
+            android:name=".act.classic.act.BaseActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+        <activity
+            android:name=".act.classic.act.SelectCitiesActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+        <activity
+            android:name=".act.classic.act.SelectCitiesDialogActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+        <activity
+            android:name=".act.classic.act.CPAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+        <activity
+            android:name=".act.classic.act.FriendCircleAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+
+        <!-- end classic -->
 
     </application>
 

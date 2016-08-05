@@ -31,6 +31,7 @@ android {
                             'src/main/res/layout_scroll',
                             'src/main/res/layout_sliding',
                             'src/main/res/layout_vpager',
+                            'src/main/res/layout_classic',
 
                     ]
         }
@@ -55,6 +56,9 @@ dependencies {
 
     //image loader
     compile files('libs/universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar')
+
+    //http retrofit 需要的包
+    compile 'com.google.code.gson:gson:2.3'
 }
 
 

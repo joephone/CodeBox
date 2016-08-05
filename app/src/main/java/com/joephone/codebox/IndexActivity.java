@@ -120,10 +120,10 @@ public class IndexActivity extends Activity {
                 intent = new Intent(context, SlidingIndex.class);
                 startActivity(intent);
 				break;
-//			case 10:
-//				intent = new Intent(context, ClassicIndex.class);
-//				startActivity(intent);
-//				break;
+			case 10:
+				intent = new Intent(context, ClassicIndex.class);
+				startActivity(intent);
+				break;
 //			case 11:
 //				intent = new Intent(context, OtherIndex.class);
 //				startActivity(intent);

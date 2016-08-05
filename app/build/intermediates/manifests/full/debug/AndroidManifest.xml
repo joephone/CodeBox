@@ -14,12 +14,11 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.joephone.codebox.IndexActivity"
-            android:label="@string/app_name"
+            android:screenOrientation="portrait"
             android:theme="@style/NoTitle" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -46,6 +45,10 @@
             android:theme="@style/NoTitle" />
         <activity
             android:name="com.joephone.codebox.SlidingIndex"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
+        <activity
+            android:name="com.joephone.codebox.ClassicIndex"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle" />
 
@@ -143,6 +146,31 @@
             android:theme="@style/NoTitle" />
 
         <!-- end vpager -->
+
+
+        <!-- classic -->
+        <activity
+            android:name="com.joephone.codebox.act.classic.act.SanMainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
+        <activity
+            android:name="com.joephone.codebox.act.classic.act.BaseActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
+        <activity
+            android:name="com.joephone.codebox.act.classic.act.SelectCitiesActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
+        <activity
+            android:name="com.joephone.codebox.act.classic.act.SelectCitiesDialogActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
+        <activity
+            android:name="com.joephone.codebox.act.classic.act.CPAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
+
+        <!-- end classic -->
 
     </application>
 
