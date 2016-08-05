@@ -8,10 +8,10 @@ import butterknife.ButterKnife.ViewBinder;
 public class IndexActivity$$ViewBinder<T extends com.joephone.codebox.IndexActivity> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131558640, "field 'back'");
-    target.back = finder.castView(view, 2131558640, "field 'back'");
-    view = finder.findRequiredView(source, 2131558568, "field 'lvIndex'");
-    target.lvIndex = finder.castView(view, 2131558568, "field 'lvIndex'");
+    view = finder.findRequiredView(source, 2131558645, "field 'back'");
+    target.back = finder.castView(view, 2131558645, "field 'back'");
+    view = finder.findRequiredView(source, 2131558573, "field 'lvIndex'");
+    target.lvIndex = finder.castView(view, 2131558573, "field 'lvIndex'");
   }
 
   @Override public void unbind(T target) {

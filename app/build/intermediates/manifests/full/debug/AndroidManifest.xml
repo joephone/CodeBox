@@ -169,6 +169,10 @@
             android:name="com.joephone.codebox.act.classic.act.CPAct"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle" />
+        <activity
+            android:name="com.joephone.codebox.act.classic.act.FriendCircleAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
 
         <!-- end classic -->
 

@@ -12,6 +12,7 @@ import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
 
+import com.joephone.codebox.act.classic.act.FriendCircleAct;
 import com.joephone.codebox.act.classic.act.SanMainActivity;
 import com.joephone.codebox.act.classic.act.SelectCitiesActivity;
 import com.joephone.codebox.act.classic.act.CPAct;
@@ -86,6 +87,11 @@ public class ClassicIndex extends Activity {
                     intent = new Intent(context, CPAct.class);
                     startActivity(intent);
                     break;
+                case 3:
+                    intent = new Intent(context, FriendCircleAct.class);
+                    startActivity(intent);
+                    break;
+
                 default:
                     break;
             }

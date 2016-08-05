@@ -20049,9 +20049,30 @@
                     "startLine": 2255,
                     "startColumn": 4,
                     "startOffset": 164600,
-                    "endLine": 2259,
+                    "endLine": 2258,
                     "endColumn": 12,
-                    "endOffset": 164815
+                    "endOffset": 164827
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 3677,
+                        "endLine": 88,
+                        "endColumn": 12,
+                        "endOffset": 3907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2259,
+                    "startColumn": 4,
+                    "startOffset": 164832,
+                    "endLine": 2263,
+                    "endColumn": 12,
+                    "endOffset": 165047
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values\\styles.xml",
@@ -20067,12 +20088,12 @@
             },
             {
                 "to": {
-                    "startLine": 2260,
+                    "startLine": 2264,
                     "startColumn": 4,
-                    "startOffset": 164820,
-                    "endLine": 2266,
+                    "startOffset": 165052,
+                    "endLine": 2270,
                     "endColumn": 12,
-                    "endOffset": 165171
+                    "endOffset": 165403
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values\\styles.xml",
@@ -20088,12 +20109,12 @@
             },
             {
                 "to": {
-                    "startLine": 2267,
+                    "startLine": 2271,
                     "startColumn": 4,
-                    "startOffset": 165176,
-                    "endLine": 2274,
+                    "startOffset": 165408,
+                    "endLine": 2278,
                     "endColumn": 12,
-                    "endOffset": 165579
+                    "endOffset": 165811
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values\\styles.xml",

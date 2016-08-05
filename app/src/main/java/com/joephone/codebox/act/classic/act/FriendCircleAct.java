@@ -2,52 +2,70 @@ package com.joephone.codebox.act.classic.act;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.view.Gravity;
+import android.util.Log;
+import android.view.Menu;
 import android.view.View;
 import android.widget.ImageView;
-import android.widget.TextView;
 
 import com.joephone.codebox.R;
-import com.joephone.codebox.act.classic.view.AreaPopupWindow;
+import com.joephone.codebox.act.classic.friendCircle.ActionItem;
+import com.joephone.codebox.act.classic.friendCircle.TitlePopup;
+import com.joephone.codebox.util.DensityUtils;
 
-import butterknife.Bind;
-import butterknife.ButterKnife;
-import butterknife.OnClick;
-
-public class FriendCircleAct extends Activity {
-
-    @Bind(R.id.back)
-    ImageView back;
-    @Bind(R.id.title)
-    TextView title;
-    @Bind(R.id.tvRight)
-    TextView tvRight;
-//    @Bind(R.id.citypicker)
-//    CityPicker citypicker;
-
-    private AreaPopupWindow popupWindow;
+public class FriendCircleAct extends Activity implements TitlePopup.OnItemOnClickListener {
+    private String tag = this.getClass().getName();
+    private ImageView btn1, btn2, btn3;
+    private TitlePopup titlePopup;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.city_picker_main);
-        ButterKnife.bind(this);
-
-        tvRight.setVisibility(View.VISIBLE);
-        tvRight.setText("Area");
+        setContentView(R.layout.friend_circle);
+        btn1 = (ImageView) findViewById(R.id.button1);
+        btn1.setOnClickListener(onclick);
+        btn2 = (ImageView) findViewById(R.id.button2);
+        btn2.setOnClickListener(onclick);
+        btn3 = (ImageView) findViewById(R.id.button3);
+        btn3.setOnClickListener(onclick);
+        titlePopup = new TitlePopup(this, DensityUtils.dip2px(this, 165), DensityUtils.dip2px(
+                this, 40));
+        titlePopup
+                .addAction(new ActionItem(this, "赞",
+                R.drawable.circle_praise));
+        titlePopup.addAction(new ActionItem(this, "评论",
+                R.drawable.circle_comment));
+        titlePopup.setItemOnClickListener(this);
     }
 
-    @OnClick({R.id.back, R.id.tvRight})
-    public void onClick(View v) {
-        switch (v.getId()) {
-            case R.id.back:
-                finish();
+    View.OnClickListener onclick = new View.OnClickListener() {
+
+        @Override
+        public void onClick(View v) {
+            titlePopup.setAnimationStyle(R.style.cricleBottomAnimation);
+            titlePopup.show(v);
+        }
+
+    };
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.main, menu);
+        return true;
+
+    }
+
+    @Override
+    public void onItemClick(ActionItem item,
+                            int position) {
+        switch (position){
+            case 0:
+                Log.i(tag,"0");
                 break;
-            case R.id.tvRight:
-                popupWindow = new AreaPopupWindow(FriendCircleAct.this);
-                popupWindow.showAtLocation(v, Gravity.BOTTOM
-                        | Gravity.CENTER_HORIZONTAL, 0, 0);
+            case 1:
+                Log.i(tag,"1");
                 break;
         }
+
     }
 }

@@ -438,20 +438,20 @@ public final class R {
 	public static final class drawable {
 		public static final int above_shadow = 0x7f02004b;
 		public static final int below_shadow = 0x7f020065;
-		public static final int icon_point = 0x7f02007e;
-		public static final int icon_point_pre = 0x7f02007f;
-		public static final int image_background = 0x7f020082;
-		public static final int selector_imageview_background = 0x7f02009e;
-		public static final int selector_item_background = 0x7f02009f;
-		public static final int vpi__tab_indicator = 0x7f0200a2;
-		public static final int vpi__tab_selected_focused_holo = 0x7f0200a3;
-		public static final int vpi__tab_selected_holo = 0x7f0200a4;
-		public static final int vpi__tab_selected_pressed_holo = 0x7f0200a5;
-		public static final int vpi__tab_unselected_focused_holo = 0x7f0200a6;
-		public static final int vpi__tab_unselected_holo = 0x7f0200a7;
-		public static final int vpi__tab_unselected_pressed_holo = 0x7f0200a8;
-		public static final int wheel_bg = 0x7f0200a9;
-		public static final int wheel_val = 0x7f0200aa;
+		public static final int icon_point = 0x7f020084;
+		public static final int icon_point_pre = 0x7f020085;
+		public static final int image_background = 0x7f020088;
+		public static final int selector_imageview_background = 0x7f0200a6;
+		public static final int selector_item_background = 0x7f0200a7;
+		public static final int vpi__tab_indicator = 0x7f0200aa;
+		public static final int vpi__tab_selected_focused_holo = 0x7f0200ab;
+		public static final int vpi__tab_selected_holo = 0x7f0200ac;
+		public static final int vpi__tab_selected_pressed_holo = 0x7f0200ad;
+		public static final int vpi__tab_unselected_focused_holo = 0x7f0200ae;
+		public static final int vpi__tab_unselected_holo = 0x7f0200af;
+		public static final int vpi__tab_unselected_pressed_holo = 0x7f0200b0;
+		public static final int wheel_bg = 0x7f0200b1;
+		public static final int wheel_val = 0x7f0200b2;
 	}
 	public static final class id {
 		public static final int anchored = 0x7f0d0038;
@@ -459,17 +459,17 @@ public final class R {
 		public static final int collapsed = 0x7f0d0039;
 		public static final int expanded = 0x7f0d003a;
 		public static final int hidden = 0x7f0d003b;
-		public static final int image_indicator = 0x7f0d00f8;
-		public static final int img_list_item = 0x7f0d0087;
+		public static final int image_indicator = 0x7f0d00fd;
+		public static final int img_list_item = 0x7f0d008c;
 		public static final int item_touch_helper_previous_elevation = 0x7f0d0005;
-		public static final int layout_viewager_content = 0x7f0d00f5;
-		public static final int layout_viewpager_indicator = 0x7f0d00f7;
+		public static final int layout_viewager_content = 0x7f0d00fa;
+		public static final int layout_viewpager_indicator = 0x7f0d00fc;
 		public static final int none = 0x7f0d0010;
-		public static final int text_list_item = 0x7f0d0088;
+		public static final int text_list_item = 0x7f0d008d;
 		public static final int top = 0x7f0d0026;
 		public static final int triangle = 0x7f0d003e;
 		public static final int underline = 0x7f0d003f;
-		public static final int viewPager = 0x7f0d00f6;
+		public static final int viewPager = 0x7f0d00fb;
 	}
 	public static final class integer {
 		public static final int default_circle_indicator_orientation = 0x7f0a0006;
@@ -479,9 +479,9 @@ public final class R {
 		public static final int default_underline_indicator_fade_length = 0x7f0a000a;
 	}
 	public static final class layout {
-		public static final int horizontal_list_item = 0x7f040032;
-		public static final int view_cycle_viewpager_contet = 0x7f040068;
-		public static final int view_cycle_viewpager_indicator = 0x7f040069;
+		public static final int horizontal_list_item = 0x7f040034;
+		public static final int view_cycle_viewpager_contet = 0x7f04006a;
+		public static final int view_cycle_viewpager_indicator = 0x7f04006b;
 	}
 	public static final class string {
 		public static final int app_name = 0x7f06001e;

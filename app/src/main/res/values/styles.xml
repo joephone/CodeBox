@@ -82,4 +82,9 @@
         <item name="android:layout_alignParentRight">true</item>
         <item name="android:layout_marginRight">10dp</item>
     </style>
+
+    <style name="cricleBottomAnimation">
+        <item name="android:windowEnterAnimation">@anim/friend_story_avatar_animation_right_in</item>
+        <item name="android:windowExitAnimation">@anim/friend_story_avatar_animation_right_out</item>
+    </style>
 </resources>
