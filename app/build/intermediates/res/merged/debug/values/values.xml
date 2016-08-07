@@ -2254,8 +2254,8 @@
         <item name="android:textSize">16sp</item>
     </style>
     <style name="cricleBottomAnimation">
-        <item name="android:windowEnterAnimation">@anim/avatar_animation_right_in</item>
-        <item name="android:windowExitAnimation">@anim/avatar_animation_right_out</item>
+        <item name="android:windowEnterAnimation">@anim/friend_story_avatar_animation_right_in</item>
+        <item name="android:windowExitAnimation">@anim/friend_story_avatar_animation_right_out</item>
     </style>
     <style name="line_style">
         <item name="android:layout_width">match_parent</item>
