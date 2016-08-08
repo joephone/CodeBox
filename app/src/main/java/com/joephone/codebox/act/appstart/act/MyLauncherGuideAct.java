@@ -19,7 +19,6 @@ import butterknife.OnClick;
 
 /**
  * APP 引导方式分类
- * com.zhangyx.MyLauncherGuide.MainActivity
  *
  * @author Admin-zhangyx
  *         <p/>

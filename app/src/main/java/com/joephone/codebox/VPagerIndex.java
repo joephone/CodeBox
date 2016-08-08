@@ -15,6 +15,7 @@ import android.widget.TextView;
 import com.joephone.codebox.act.sliding.act.SlidingUpPanelAct;
 import com.joephone.codebox.act.vpager.act.HuVPagerAct;
 import com.joephone.codebox.act.vpager.act.TrineaAct;
+import com.joephone.codebox.act.vpager.scrollviewwithviewpager.act.ScrollWithVP;
 import com.joephone.codebox.adapter.IndexAdapter;
 
 import java.util.ArrayList;
@@ -56,6 +57,7 @@ public class VPagerIndex extends Activity {
         lvIndex.setOnItemClickListener(lvScrollViewIndexOnItemClickListner);
         sourceList.add("Fragment实现 Hu");
         sourceList.add("ViewPager实现 Trinea");
+        sourceList.add("ScrollWithVP 解决scroll与viewpager冲突");
 
         adapter = new IndexAdapter(this, sourceList);
         lvIndex.setAdapter(adapter);
@@ -76,6 +78,10 @@ public class VPagerIndex extends Activity {
                     break;
                 case 1:
                     intent = new Intent(context, TrineaAct.class);
+                    startActivity(intent);
+                    break;
+                case 2:
+                    intent = new Intent(context, ScrollWithVP.class);
                     startActivity(intent);
                     break;
 

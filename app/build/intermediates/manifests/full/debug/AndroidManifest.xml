@@ -144,6 +144,26 @@
             android:name="com.joephone.codebox.act.vpager.act.TrineaAct"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle" />
+        <activity
+            android:name="com.joephone.codebox.act.vpager.scrollviewwithviewpager.act.ScrollWithVP"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
+        <activity
+            android:name="com.joephone.codebox.act.vpager.scrollviewwithviewpager.act.ProblemActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
+        <activity
+            android:name="com.joephone.codebox.act.vpager.scrollviewwithviewpager.act.Solution1Activity"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
+        <activity
+            android:name="com.joephone.codebox.act.vpager.scrollviewwithviewpager.act.Solution2Activity"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
+        <activity
+            android:name="com.joephone.codebox.act.vpager.scrollviewwithviewpager.act.Solution3Activity"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
 
         <!-- end vpager -->
 
