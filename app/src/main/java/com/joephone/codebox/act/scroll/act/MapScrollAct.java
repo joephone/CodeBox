@@ -18,7 +18,7 @@ import butterknife.ButterKnife;
 
 
 public class MapScrollAct extends Activity implements OnScrollListener {
-    private String tag ="MapScroll";
+    private String tag =this.getClass().getName();
     @Bind(R.id.layMain)
     RelativeLayout layMain;
     @Bind(R.id.etSearch)

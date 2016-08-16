@@ -12,7 +12,7 @@ import android.widget.ScrollView;
  * ScrollView的滚动Y值进行监听
  */
 public class TopFloatMeiTuanScrollView extends ScrollView {
-	private OnScrollListener onScrollListener;  
+	private TopFloatMeiTuanScrollListener onScrollListener;
     /** 
      * 主要是用在用户手指离开MyScrollView，MyScrollView还在继续滑动，我们用来保存Y的距离，然后做比较 
      */  
@@ -31,7 +31,7 @@ public class TopFloatMeiTuanScrollView extends ScrollView {
      * 设置滚动接口 
      * @param onScrollListener 
      */
-	public void setOnScrollListener(OnScrollListener onScrollListener){
+	public void setOnScrollListener(TopFloatMeiTuanScrollListener onScrollListener){
 		this.onScrollListener = onScrollListener;
 	}
 	/** 
@@ -76,7 +76,7 @@ public class TopFloatMeiTuanScrollView extends ScrollView {
 	/** 
      * 滚动的回调接口 
      */  
-    public interface OnScrollListener{  
+    public interface TopFloatMeiTuanScrollListener{
         /** 
          * 回调方法， 返回MyScrollView滑动的Y方向距离 
          */  

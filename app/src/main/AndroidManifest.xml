@@ -54,6 +54,11 @@
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle"/>
         <activity
+            android:name=".act.scroll.act.MeiTuanMainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+
+        <activity
             android:name=".act.scroll.act.TopFloatActivity"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle"/>
@@ -61,6 +66,11 @@
             android:name=".act.scroll.act.MapScrollAct"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle"/>
+        <activity
+            android:name=".act.scroll.scrollVPFloatLayout.act.ScrollVPFloatLayoutAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+
         <!-- end scroll -->
 
 
@@ -89,6 +99,11 @@
             android:name=".act.list.act.ListHeaderActivity"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle"/>
+        <activity
+            android:name=".act.list.act.RecycleLoadMoreAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+
 
         <!-- end list -->
 
@@ -160,6 +175,7 @@
             android:name=".act.vpager.scrollviewwithviewpager.act.Solution3Activity"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle"/>
+
 
         <!-- end vpager -->
 

@@ -14,9 +14,11 @@ import android.widget.TextView;
 
 //import com.joephone.codebox.activity.scrollview.MeiTuanMainActivity;
 import com.joephone.codebox.act.scroll.act.MapScrollAct;
+import com.joephone.codebox.act.scroll.act.MeiTuanMainActivity;
 import com.joephone.codebox.act.scroll.act.PullToZoomAct;
 //import com.joephone.codebox.activity.scrollview.ScrollRefreshActivity;
 import com.joephone.codebox.act.scroll.act.TopFloatActivity;
+import com.joephone.codebox.act.scroll.scrollVPFloatLayout.act.ScrollVPFloatLayoutAct;
 import com.joephone.codebox.adapter.IndexAdapter;
 
 import java.util.ArrayList;
@@ -61,6 +63,7 @@ public class ScrollIndex extends Activity {
         sourceList.add("仿美团悬浮2推荐   TopFloatScrollView");
         sourceList.add("下拉刷新   ScrollRefresh");
         sourceList.add("地图锚定   MapViewScroll");
+        sourceList.add("锚定VP标题   ScrollVPFloatLayoutAct");
 
         adapter = new IndexAdapter(this, sourceList);
         lvIndex.setAdapter(adapter);
@@ -79,10 +82,10 @@ public class ScrollIndex extends Activity {
                     intent = new Intent(context, PullToZoomAct.class);
                     startActivity(intent);
                     break;
-//                case 1:
-//                    intent = new Intent(context, MeiTuanMainActivity.class);
-//                    startActivity(intent);
-//                    break;
+                case 1:
+                    intent = new Intent(context, MeiTuanMainActivity.class);
+                    startActivity(intent);
+                    break;
                 case 2:
                     intent = new Intent(context, TopFloatActivity.class);
                     startActivity(intent);
@@ -96,7 +99,7 @@ public class ScrollIndex extends Activity {
                     startActivity(intent);
                     break;
                 case 5:
-                    intent = new Intent(context, MapScrollAct.class);
+                    intent = new Intent(context, ScrollVPFloatLayoutAct.class);
                     startActivity(intent);
                     break;
                 default:

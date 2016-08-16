@@ -11,10 +11,9 @@ import android.widget.RelativeLayout;
 
 import com.joephone.codebox.R;
 import com.joephone.codebox.act.scroll.view.TopFloatMeiTuanScrollView;
-import com.joephone.codebox.act.scroll.view.TopFloatMeiTuanScrollView.OnScrollListener;
 
 
-public class TopFloatActivity extends Activity implements OnScrollListener{
+public class TopFloatActivity extends Activity implements TopFloatMeiTuanScrollView.TopFloatMeiTuanScrollListener{
 	private EditText etSearch;
 	private ImageView ivTitle;
 	private TopFloatMeiTuanScrollView myScrollView;

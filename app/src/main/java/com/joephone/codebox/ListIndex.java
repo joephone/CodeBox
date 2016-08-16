@@ -17,6 +17,7 @@ import com.joephone.codebox.act.list.act.ListEditorAct;
 import com.joephone.codebox.act.list.act.ListHeaderActivity;
 import com.joephone.codebox.act.list.act.NahuanjinActivity;
 import com.joephone.codebox.act.list.act.PinnedSectionListAct;
+import com.joephone.codebox.act.list.act.RecycleLoadMoreAct;
 import com.joephone.codebox.act.list.act.TimeLineAct;
 import com.joephone.codebox.adapter.IndexAdapter;
 
@@ -57,14 +58,17 @@ public class ListIndex extends Activity {
     private void initListView() {
         List<String> sourceList = new ArrayList<String>();
         lvIndex.setOnItemClickListener(lvScrollViewIndexOnItemClickListner);
-        sourceList.add("复用问题   ListViewEditTextCheckBox");
-        sourceList.add("时光轴  TimeLine");
-        sourceList.add("下拉回弹  一切痛苦源于自己的无能   DropBackList");
-        sourceList.add("GroupName滑动到顶端时会固定不动直到另外一个GroupName   PinnedSectionList");
-        sourceList.add("固定组标题的实现   PinnedHeadList");
-        sourceList.add("侧滑");
-        sourceList.add("横向南怀瑾");
-        sourceList.add("ListHeaderActivity");
+        sourceList.add("0 复用问题   ListViewEditTextCheckBox");
+        sourceList.add("1 时光轴  TimeLine");
+        sourceList.add("2 下拉回弹  一切痛苦源于自己的无能   DropBackList");
+        sourceList.add("3 GroupName滑动到顶端时会固定不动直到另外一个GroupName   PinnedSectionList");
+        sourceList.add("4 固定组标题的实现   PinnedHeadList");
+        sourceList.add("5 侧滑");
+        sourceList.add("6 横向南怀瑾");
+        sourceList.add("7 ListHeaderActivity");
+        sourceList.add("8 RecyclerView实现底部加载更多功能");
+
+
 
         adapter = new IndexAdapter(this, sourceList);
         lvIndex.setAdapter(adapter);
@@ -111,7 +115,10 @@ public class ListIndex extends Activity {
                     intent = new Intent(context, ListHeaderActivity.class);
                     startActivity(intent);
                     break;
-
+                case 8:
+                    intent = new Intent(context, RecycleLoadMoreAct.class);
+                    startActivity(intent);
+                    break;
                 default:
                     break;
             }
