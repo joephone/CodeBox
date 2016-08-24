@@ -66,7 +66,7 @@ public class ListIndex extends Activity {
         sourceList.add("5 侧滑");
         sourceList.add("6 横向南怀瑾");
         sourceList.add("7 ListHeaderActivity");
-        sourceList.add("8 RecyclerView实现底部加载更多功能");
+        sourceList.add("8 RecyclerIndex");
 
 
 
@@ -116,7 +116,7 @@ public class ListIndex extends Activity {
                     startActivity(intent);
                     break;
                 case 8:
-                    intent = new Intent(context, RecycleLoadMoreAct.class);
+                    intent = new Intent(context, RecyclerIndex.class);
                     startActivity(intent);
                     break;
                 default:

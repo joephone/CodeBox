@@ -36,6 +36,10 @@
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle"/>
         <activity
+            android:name=".RecyclerIndex"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+        <activity
             android:name=".VPagerIndex"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle"/>
@@ -107,8 +111,15 @@
 
         <!-- end list -->
 
-        <!-- sliding -->
+        <!--  recycle -->
+        <activity
+            android:name=".act.recycle.act.XiaoMIAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+        <!-- end Recycle -->
 
+
+        <!-- sliding -->
         <activity
             android:name=".act.sliding.act.SlidingUpPanelAct"
             android:screenOrientation="portrait"
