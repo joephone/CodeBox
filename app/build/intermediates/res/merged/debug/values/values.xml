@@ -757,15 +757,19 @@
     <string name="complete">完成</string>
     <string name="confirm">确认</string>
     <string name="edit">编辑</string>
+    <string name="english">English</string>
     <string name="follow">Follow us&lt;br/>on &lt;a href="http://twitter.com/umanoapp">Twitter&lt;/a></string>
     <string name="hello">&lt;b>The Awesome Sliding Up Panel&lt;/b>&lt;br/> Brought to you by&lt;br/>&lt;a href="http://umanoapp.com">http://umanoapp.com&lt;/a></string>
+    <string name="hello_world">Hello world!</string>
     <string name="navigation">导航</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="ok">确定</string>
     <string name="search">搜索</string>
+    <string name="simple_chinese">简体中文</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="tide">潮汐</string>
+    <string name="traditional_chinese">繁體中文</string>
     <style name="ActionBar" parent="ThemeOverlay.AppCompat.ActionBar">
         <item name="android:displayOptions">homeAsUp</item>
     </style>

@@ -48,6 +48,10 @@
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle"/>
         <activity
+            android:name=".OtherIndex"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+        <activity
             android:name=".ClassicIndex"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle"/>
@@ -107,8 +111,6 @@
             android:name=".act.list.act.RecycleLoadMoreAct"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle"/>
-
-
         <!-- end list -->
 
         <!--  recycle -->
@@ -189,6 +191,21 @@
 
 
         <!-- end vpager -->
+
+        <!-- other -->
+        <activity
+            android:name=".SettingIndex"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+        <activity
+            android:name=".act.other.MulLanuageAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat"/>
+
+
+
+        <!-- end other -->
+
 
         <!-- classic -->
         <activity

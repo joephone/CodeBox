@@ -37,6 +37,10 @@
     <!-- end sliding up panel  -->
 
 
-
-
+    <!-- other  -->
+    <string name="hello_world">Hello world!</string>
+    <string name="english">English</string>
+    <string name="simple_chinese">简体中文</string>
+    <string name="traditional_chinese">繁體中文</string>
+    <!-- end other -->
 </resources>

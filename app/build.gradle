@@ -34,6 +34,7 @@ android {
                             'src/main/res/layout_sliding',
                             'src/main/res/layout_vpager',
                             'src/main/res/layout_vpager/scrollviewwithviewpager',
+                            'src/main/res/layout_other',
                             'src/main/res/layout_classic',
 
                     ]
