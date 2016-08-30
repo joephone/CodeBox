@@ -48,6 +48,10 @@
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle"/>
         <activity
+            android:name=".PicIndex"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+        <activity
             android:name=".OtherIndex"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle"/>
@@ -120,6 +124,12 @@
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
         <!-- end Recycle -->
 
+        <!--  pic -->
+        <activity
+            android:name=".act.pic.act.DragImageActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+        <!-- end pic -->
 
         <!-- sliding -->
         <activity
@@ -201,8 +211,18 @@
             android:name=".act.other.MulLanuageAct"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat"/>
-
-
+        <activity
+            android:name=".act.other.vote.act.OtherVoteActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat"/>
+        <activity
+            android:name=".act.other.vote.act.OtherVoteBeautyActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat"/>
+        <activity
+            android:name=".act.other.vote.act.OtherVoteGroupLevelActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat"/>
 
         <!-- end other -->
 

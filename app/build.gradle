@@ -28,6 +28,7 @@ android {
                             'src/main/res/layout',
                             'src/main/res/layout_main',
                             'src/main/res/layout_list',
+                            'src/main/res/layout_pic',
                             'src/main/res/layout_recyclerview',
                             'src/main/res/layout_recyclerview/xiaomi',
                             'src/main/res/layout_scroll',
@@ -35,6 +36,7 @@ android {
                             'src/main/res/layout_vpager',
                             'src/main/res/layout_vpager/scrollviewwithviewpager',
                             'src/main/res/layout_other',
+                            'src/main/res/layout_other/vote',
                             'src/main/res/layout_classic',
 
                     ]

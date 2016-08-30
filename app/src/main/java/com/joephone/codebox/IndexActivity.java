@@ -96,10 +96,10 @@ public class IndexActivity extends Activity {
 				intent = new Intent(context, ListIndex.class);
 				startActivity(intent);
 				break;
-//			case 4:
-//				intent = new Intent(context, PicIndex.class);
-//				startActivity(intent);
-//				break;
+			case 4:
+				intent = new Intent(context, PicIndex.class);
+				startActivity(intent);
+				break;
 			case 5:
 				intent = new Intent(context, VPagerIndex.class);
 				startActivity(intent);

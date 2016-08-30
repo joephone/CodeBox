@@ -52,6 +52,10 @@
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle" />
         <activity
+            android:name="com.joephone.codebox.PicIndex"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
+        <activity
             android:name="com.joephone.codebox.OtherIndex"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle" />
@@ -123,6 +127,14 @@
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <!-- end Recycle -->
+
+
+        <!-- pic -->
+        <activity
+            android:name="com.joephone.codebox.act.pic.act.DragImageActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <!-- end pic -->
 
 
         <!-- sliding -->
@@ -202,6 +214,18 @@
             android:theme="@style/NoTitle" />
         <activity
             android:name="com.joephone.codebox.act.other.MulLanuageAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat" />
+        <activity
+            android:name="com.joephone.codebox.act.other.vote.act.OtherVoteActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat" />
+        <activity
+            android:name="com.joephone.codebox.act.other.vote.act.OtherVoteBeautyActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat" />
+        <activity
+            android:name="com.joephone.codebox.act.other.vote.act.OtherVoteGroupLevelActivity"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat" />
 
