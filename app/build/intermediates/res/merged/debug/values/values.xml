@@ -128,6 +128,7 @@
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="colorAccent">#FF4081</color>
     <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimary2">#e03F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="cyan100">#b2ebf2</color>
     <color name="cyan200">#80deea</color>
@@ -173,6 +174,7 @@
     <color name="deeppurplea200">#7c4dff</color>
     <color name="deeppurplea400">#651fff</color>
     <color name="deeppurplea700">#6200ea</color>
+    <color name="defaultTextColor">#ffffff</color>
     <color name="default_ascv_selected_color">#0099CC</color>
     <color name="default_ascv_unselected_color">#FFFFFF</color>
     <color name="default_circle_indicator_fill_color">#FFFFFFFF</color>
@@ -238,6 +240,7 @@
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
     <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
+    <color name="holoBlue"> #33b5e5 </color>
     <color name="indigo100">#c5cae9</color>
     <color name="indigo200">#9fa8da</color>
     <color name="indigo300">#7986cb</color>
@@ -497,6 +500,7 @@
     <declare-styleable name="NumberPicker"><attr format="color" name="normalTextColor"/><attr format="dimension" name="normalTextSize"/><attr format="color" name="selecredTextColor"/><attr format="dimension" name="selecredTextSize"/><attr format="dimension" name="unitHight"/><attr format="integer" name="itemNumber"/><attr format="color" name="lineColor"/><attr format="dimension" name="maskHight"/><attr format="boolean" name="noEmpty"/><attr format="boolean" name="isEnable"/></declare-styleable>
     <declare-styleable name="PopupWindow"><attr format="boolean" name="overlapAnchor"/><attr name="android:popupBackground"/></declare-styleable>
     <declare-styleable name="PopupWindowBackgroundState"><attr format="boolean" name="state_above_anchor"/></declare-styleable>
+    <declare-styleable name="RangeBar"><attr format="integer" name="tickCount"/><attr format="dimension" name="tickHeight"/><attr format="dimension" name="barWeight"/><attr format="reference|color" name="barColor"/><attr format="dimension" name="connectingLineWeight"/><attr format="reference|color" name="connectingLineColor"/><attr format="dimension" name="thumbRadius"/><attr format="reference" name="thumbImageNormal"/><attr format="reference" name="thumbImagePressed"/><attr format="reference|color" name="thumbColorNormal"/><attr format="reference|color" name="thumbColorPressed"/></declare-styleable>
     <declare-styleable name="RecyclerView"><attr format="string" name="layoutManager"/><attr name="android:orientation"/><attr format="integer" name="spanCount"/><attr format="boolean" name="reverseLayout"/><attr format="boolean" name="stackFromEnd"/></declare-styleable>
     <declare-styleable name="ScrimInsetsFrameLayout"><attr format="color|reference" name="insetForeground"/></declare-styleable>
     <declare-styleable name="ScrollingViewBehavior_Params"><attr format="dimension" name="behavior_overlapTop"/></declare-styleable>
@@ -684,6 +688,7 @@
     <dimen name="size_24">24sp</dimen>
     <dimen name="size_35">35sp</dimen>
     <dimen name="sliding_menu_width">80dp</dimen>
+    <dimen name="textSize">22sp</dimen>
     <dimen name="thumnail_default_height">100dip</dimen>
     <dimen name="thumnail_default_width">100dip</dimen>
     <dimen name="view_padding">6dp</dimen>
@@ -785,9 +790,11 @@
         <item name="android:windowEnterAnimation">@anim/design_bottom_sheet_slide_in</item>
         <item name="android:windowExitAnimation">@anim/design_bottom_sheet_slide_out</item>
     </style>
-    <style name="AppTheme">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="android:listDivider">@drawable/list_divider</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
     </style>
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
     <style name="AppTheme.NoActionBar">
@@ -1774,6 +1781,16 @@
         <item name="android:layout_marginTop">@dimen/dp_20</item>
         <item name="android:textSize">@dimen/size_18</item>
     </style>
+    <style name="ButtonTheme" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">@dimen/textSize</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:background">@drawable/range_seek_bar_btn_selector</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
     <style name="CommonBtn">
         <item name="android:background">@drawable/selector_btn_orange</item>
         <item name="android:layout_width">match_parent</item>
@@ -2056,6 +2073,15 @@
     <style name="TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle">
     </style>
     <style name="TextAppearance.Widget.AppCompat.Toolbar.Title" parent="Base.TextAppearance.Widget.AppCompat.Toolbar.Title">
+    </style>
+    <style name="TextTheme" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">@dimen/textSize</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_gravity">center</item>
     </style>
     <style name="Theme.AppCompat" parent="Base.Theme.AppCompat"/>
     <style name="Theme.AppCompat.CompactMenu" parent="Base.Theme.AppCompat.CompactMenu"/>

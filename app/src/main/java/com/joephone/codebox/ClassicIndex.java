@@ -16,6 +16,8 @@ import com.joephone.codebox.act.classic.act.FriendCircleAct;
 import com.joephone.codebox.act.classic.act.SanMainActivity;
 import com.joephone.codebox.act.classic.act.SelectCitiesActivity;
 import com.joephone.codebox.act.classic.act.CPAct;
+import com.joephone.codebox.act.classic.rangeseek.act.NewRangeSeekBarAct;
+import com.joephone.codebox.act.classic.rangeseek.act.RangeSeekBarAct;
 import com.joephone.codebox.adapter.IndexAdapter;
 
 import java.util.ArrayList;
@@ -62,6 +64,8 @@ public class ClassicIndex extends Activity {
         sourceList.add("SelectCities");
         sourceList.add("citypicker");
         sourceList.add("微信朋友圈点赞评论弹出框效果Popupwindow");
+        sourceList.add("一个漂亮的范围拖动条");
+        sourceList.add("一个漂亮的范围拖动条 new ");
         adapter = new IndexAdapter(this, sourceList);
         lvIndex.setAdapter(adapter);
     }
@@ -91,7 +95,14 @@ public class ClassicIndex extends Activity {
                     intent = new Intent(context, FriendCircleAct.class);
                     startActivity(intent);
                     break;
-
+                case 4:
+                    intent = new Intent(context, RangeSeekBarAct.class);
+                    startActivity(intent);
+                    break;
+                case 5:
+                    intent = new Intent(context, NewRangeSeekBarAct.class);
+                    startActivity(intent);
+                    break;
                 default:
                     break;
             }

@@ -38,6 +38,8 @@ android {
                             'src/main/res/layout_other',
                             'src/main/res/layout_other/vote',
                             'src/main/res/layout_classic',
+                            'src/main/res/layout_classic/city_picker',
+                            'src/main/res/layout_classic/rangeseekbar',
 
                     ]
         }
@@ -47,6 +49,7 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile project(':library')
+    compile project(':RangeSeekBarView')
 
     testCompile 'junit:junit:4.12'
 

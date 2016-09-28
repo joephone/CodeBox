@@ -252,6 +252,18 @@
             android:name=".act.classic.act.FriendCircleAct"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle"/>
+        <activity
+            android:name=".act.classic.rangeseek.act.RangeSeekBarAct"
+            android:screenOrientation="portrait"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme"/>
+        <activity
+            android:name=".act.classic.rangeseek.act.NewRangeSeekBarAct"
+            android:screenOrientation="portrait"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme"/>
+
+
 
         <!-- end classic -->
 
