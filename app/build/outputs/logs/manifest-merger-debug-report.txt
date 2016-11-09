@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:2:1-272:12
+ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:2:1-275:12
 	package
 		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:3:5-35
 		INJECTED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml
@@ -22,7 +22,7 @@ ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidM
 	android:name
 		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:7:22-78
 application
-ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:9:5-270:19
+ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:9:5-273:19
 MERGED from [CodeBox:library:unspecified] C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\exploded-aar\CodeBox\library\unspecified\AndroidManifest.xml:11:5-14:19
 MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
@@ -409,74 +409,82 @@ ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidM
 		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:225:13-51
 	android:name
 		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:223:13-75
+activity#com.joephone.codebox.act.other.catchcat.act.CatchCat
+ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:226:9-229:53
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:228:13-49
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:229:13-51
+	android:name
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:227:13-60
 activity#com.joephone.codebox.act.classic.act.SanMainActivity
-ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:231:9-234:45
+ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:234:9-237:45
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:233:13-49
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:236:13-49
 	android:theme
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:234:13-43
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:237:13-43
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:232:13-60
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:235:13-60
 activity#com.joephone.codebox.act.classic.act.BaseActivity
-ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:235:9-238:45
+ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:238:9-241:45
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:237:13-49
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:240:13-49
 	android:theme
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:238:13-43
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:241:13-43
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:236:13-57
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:239:13-57
 activity#com.joephone.codebox.act.classic.act.SelectCitiesActivity
-ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:239:9-242:45
+ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:242:9-245:45
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:241:13-49
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:244:13-49
 	android:theme
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:242:13-43
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:245:13-43
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:240:13-65
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:243:13-65
 activity#com.joephone.codebox.act.classic.act.SelectCitiesDialogActivity
-ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:243:9-246:45
+ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:246:9-249:45
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:245:13-49
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:248:13-49
 	android:theme
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:246:13-43
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:249:13-43
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:244:13-71
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:247:13-71
 activity#com.joephone.codebox.act.classic.act.CPAct
-ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:247:9-250:45
+ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:250:9-253:45
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:249:13-49
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:252:13-49
 	android:theme
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:250:13-43
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:253:13-43
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:248:13-50
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:251:13-50
 activity#com.joephone.codebox.act.classic.act.FriendCircleAct
-ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:251:9-254:45
+ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:254:9-257:45
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:253:13-49
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:256:13-49
 	android:theme
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:254:13-43
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:257:13-43
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:252:13-60
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:255:13-60
 activity#com.joephone.codebox.act.classic.rangeseek.act.RangeSeekBarAct
-ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:255:9-259:46
+ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:258:9-262:46
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:257:13-49
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:260:13-49
 	android:supportsRtl
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:258:13-39
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:261:13-39
 	android:theme
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:259:13-44
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:262:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:256:13-70
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:259:13-70
 activity#com.joephone.codebox.act.classic.rangeseek.act.NewRangeSeekBarAct
-ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:260:9-264:46
+ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:263:9-267:46
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:262:13-49
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:265:13-49
 	android:supportsRtl
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:263:13-39
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:266:13-39
 	android:theme
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:264:13-44
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:267:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:261:13-73
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:264:13-73
 uses-sdk
 INJECTED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [CodeBox:library:unspecified] C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\exploded-aar\CodeBox\library\unspecified\AndroidManifest.xml:7:5-9:41

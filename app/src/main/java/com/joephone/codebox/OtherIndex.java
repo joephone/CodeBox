@@ -10,6 +10,7 @@ import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
 
+import com.joephone.codebox.act.other.catchcat.act.CatchCat;
 import com.joephone.codebox.act.other.vote.act.OtherVoteActivity;
 import com.joephone.codebox.adapter.IndexAdapter;
 
@@ -46,6 +47,7 @@ public class OtherIndex extends Activity {
         lvIndex.setOnItemClickListener(lvPicIndexOnItemClickListner);
         sourceList.add("设置，setting index");
         sourceList.add("投票   Vote");
+        sourceList.add("神精猫   CatchCat");
 //        sourceList.add("BMI健康顾问，health");
 //        sourceList.add("指南针   compass");
 //        sourceList.add("计时器   Timer");
@@ -73,10 +75,10 @@ public class OtherIndex extends Activity {
                     intent = new Intent(context, OtherVoteActivity.class);
                     startActivity(intent);
                     break;
-//                case 1:
-//                    intent = new Intent(context, CompassActivity.class);
-//                    startActivity(intent);
-//                    break;
+                case 2:
+                    intent = new Intent(context, CatchCat.class);
+                    startActivity(intent);
+                    break;
 //                case 2:
 //                    intent = new Intent(context, TimerActivity.class);
 //                    startActivity(intent);

@@ -37,6 +37,7 @@ android {
                             'src/main/res/layout_vpager/scrollviewwithviewpager',
                             'src/main/res/layout_other',
                             'src/main/res/layout_other/vote',
+                            'src/main/res/layout_other/catchcat',
                             'src/main/res/layout_classic',
                             'src/main/res/layout_classic/city_picker',
                             'src/main/res/layout_classic/rangeseekbar',

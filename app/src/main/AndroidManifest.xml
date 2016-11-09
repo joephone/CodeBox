@@ -223,7 +223,10 @@
             android:name=".act.other.vote.act.OtherVoteGroupLevelActivity"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat"/>
-
+        <activity
+            android:name=".act.other.catchcat.act.CatchCat"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat"/>
         <!-- end other -->
 
 

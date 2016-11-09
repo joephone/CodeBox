@@ -229,7 +229,10 @@
             android:name="com.joephone.codebox.act.other.vote.act.OtherVoteGroupLevelActivity"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat" />
-
+        <activity
+            android:name="com.joephone.codebox.act.other.catchcat.act.CatchCat"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat" />
         <!-- end other -->
 
 
