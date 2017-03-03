@@ -84,10 +84,10 @@ public class IndexActivity extends Activity {
 //				intent = new Intent(context, AndroidSoftIndex.class);
 //				startActivity(intent);
 //				break;
-//			case 1:
-//				intent = new Intent(context, WidgetIndex.class);
-//				startActivity(intent);
-//				break;
+			case 1:
+				intent = new Intent(context, WidgetIndex.class);
+				startActivity(intent);
+				break;
 			case 2:
 				intent = new Intent(context, ScrollIndex.class);
 				startActivity(intent);

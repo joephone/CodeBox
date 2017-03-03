@@ -1,22 +1,22 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\demo.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\menu\\demo.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mul_lan.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\menu\\mul_lan.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\list_pinned_section_main.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\menu\\list_pinned_section_main.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_drawer.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\menu\\main_drawer.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mul_lan.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\menu\\mul_lan.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\demo.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\menu\\demo.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\list_pinned_section_main.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\menu\\list_pinned_section_main.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_drawer.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\menu\\main_drawer.xml"
     }
 ]

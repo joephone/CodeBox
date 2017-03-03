@@ -11,6 +11,7 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
 
 import com.joephone.codebox.act.other.MulLanuageAct;
+import com.joephone.codebox.act.other.SpannableStringBuilder.act.SpannableAct;
 import com.joephone.codebox.adapter.IndexAdapter;
 
 import java.util.ArrayList;
@@ -45,6 +46,7 @@ public class SettingIndex extends Activity {
         List<String> sourceList = new ArrayList<>();
         lvIndex.setOnItemClickListener(lvPicIndexOnItemClickListner);
         sourceList.add("多语言，MulLanuage");
+        sourceList.add("SpannableStringBuilder使用");
         adapter = new IndexAdapter(this, sourceList);
         lvIndex.setAdapter(adapter);
     }
@@ -61,7 +63,10 @@ public class SettingIndex extends Activity {
                     intent = new Intent(context, MulLanuageAct.class);
                     startActivity(intent);
                     break;
-
+                case 1:
+                    intent = new Intent(context, SpannableAct.class);
+                    startActivity(intent);
+                    break;
                 default:
                     break;
             }

@@ -1,18 +1,15 @@
 package com.joephone.codebox.act.other;
 
-import java.util.Locale;
-
-import android.support.v7.app.ActionBarActivity;
-import android.support.v7.app.ActionBar;
-import android.support.v4.app.Fragment;
 import android.content.res.Configuration;
 import android.os.Bundle;
-import android.view.LayoutInflater;
+import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 
 import com.joephone.codebox.R;
+
+import java.util.Locale;
 
 public class MulLanuageAct extends ActionBarActivity {
 

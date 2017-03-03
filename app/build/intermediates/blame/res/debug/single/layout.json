@@ -1,550 +1,562 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_snackbar_include.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swp_solution2.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_vpager\\scrollviewwithviewpager\\layout\\swp_solution2.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_1.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\fragment_1.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_uppanel.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\sliding_uppanel.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_footer.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_recyclerview\\layout\\item_footer.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_4.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\fragment_4.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_cycle_viewpager_indicator.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\CodeBox\\library\\unspecified\\res\\layout\\view_cycle_viewpager_indicator.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_timeline_group_item.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_timeline_group_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_citys_dialog.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\select_citys_dialog.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_tab_icon.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slide_map.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\slide_map.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_pinned_section_single.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_pinned_section_single.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\city_picker_pop.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\city_picker_pop.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appstart_scrollview.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\appstart_scrollview.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_meituan_buy_layout.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_scroll\\layout\\scroll_meituan_buy_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_2.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\fragment_2.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_header.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_content2.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_vpager\\scrollviewwithviewpager\\layout\\fragment_content2.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_pulltozoom.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_scroll\\layout\\scroll_pulltozoom.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swp_solution3.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_vpager\\scrollviewwithviewpager\\layout\\swp_solution3.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_citys_main.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\select_citys_main.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_timeline.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_timeline.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_editor.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_editor.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\range_seek_bar.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\range_seek_bar.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recycle_loadmore.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_recyclerview\\layout\\recycle_loadmore.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_main.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\title_main.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_timeline_child_item.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_timeline_child_item.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pic_dragimage.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_pic\\layout\\pic_dragimage.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_vote_group_level.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_other\\vote\\layout\\other_vote_group_level.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_vote.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_other\\vote\\layout\\other_vote.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_menu_item.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_content3.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_vpager\\scrollviewwithviewpager\\layout\\fragment_content3.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_footer.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_recyclerview\\layout\\item_footer.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiaomi_act.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_recyclerview\\xiaomi\\layout\\xiaomi_act.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_vp_float_layout_title.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_scroll\\layout\\scroll_vp_float_layout_title.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiaomi_item.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_recyclerview\\xiaomi\\layout\\xiaomi_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appstart_splash.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\appstart_splash.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_vote_beauty.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_other\\vote\\layout\\other_vote_beauty.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_editor_item.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_editor_item.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_simple_item.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_simple_item.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_lines.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_content3.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_vpager\\scrollviewwithviewpager\\layout\\fragment_content3.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_recyclerview\\layout\\content_main.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_map_float.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_scroll\\layout\\scroll_map_float.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_vote_group_level.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_other\\vote\\layout\\other_vote_group_level.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\range_seek_bar.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\range_seek_bar.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_vote_item.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_other\\vote\\layout\\other_vote_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\san_main.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\san_main.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_cn.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\sliding_cn.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_3.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\fragment_3.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friend_circle.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\friend_circle.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_top_float_meituan.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_scroll\\layout\\scroll_top_float_meituan.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_header.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_header.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_app_bar.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\main_app_bar.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_tab_text.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiaomi_item.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_recyclerview\\xiaomi\\layout\\xiaomi_item.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_up_panel.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_sliding\\layout\\sliding_up_panel.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_vp_float_layout.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_scroll\\layout\\scroll_vp_float_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swp_problem.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_vpager\\scrollviewwithviewpager\\layout\\swp_problem.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_list_children_item.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\map_list_children_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_media.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_view.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_recyclerview\\layout\\item_view.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_index_item.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\main_index_item.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_pinned_section_layout.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_pinned_section_layout.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swp_solution3.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_vpager\\scrollviewwithviewpager\\layout\\swp_solution3.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_pulltozoom.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_scroll\\layout\\scroll_pulltozoom.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_1.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\fragment_1.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_top_float_meituan.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_scroll\\layout\\scroll_top_float_meituan.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_banner.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_vpager\\layout\\view_banner.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appstart_viewpager.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\appstart_viewpager.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\catch_cat.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_other\\catchcat\\layout\\catch_cat.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_time.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hozi_nanhuaijin.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\hozi_nanhuaijin.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_2.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\fragment_2.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_up_panel_test.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\sliding_up_panel_test.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_area.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\pop_area.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\main.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_content1.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_vpager\\scrollviewwithviewpager\\layout\\fragment_content1.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\main.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_timeline_group_item.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_timeline_group_item.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_pinned_section_single.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_pinned_section_single.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\city_picker_main.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\city_picker_main.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_up_panel.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_sliding\\layout\\sliding_up_panel.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_cn.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\sliding_cn.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_vp_float_layout_title.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_scroll\\layout\\scroll_vp_float_layout_title.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_area.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\pop_area.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\city_picker.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\city_picker.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_subheader.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_drop_back.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_drop_back.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_recyclerview\\layout\\content_main.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swp_solution1.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_vpager\\scrollviewwithviewpager\\layout\\swp_solution1.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_main.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\title_main.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_drop_back_item.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_drop_back_item.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\city_picker.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\city_picker.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_editor.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_editor.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_nav_header.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\main_nav_header.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appstart_successlaunch.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\appstart_successlaunch.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_other\\spannable\\layout\\item_listview.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_vote.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_other\\vote\\layout\\other_vote.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_meituan_buy_layout.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_scroll\\layout\\scroll_meituan_buy_layout.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_snackbar.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mine_frag_myfishspot_item.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\mine_frag_myfishspot_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_vote_beauty_item.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_other\\vote\\layout\\other_vote_beauty_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_drop_back_top_img.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_drop_back_top_img.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_banner.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_vpager\\layout\\view_banner.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\horizontal_list_item.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\CodeBox\\library\\unspecified\\res\\layout\\horizontal_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\trinaea.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_vpager\\layout\\trinaea.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_citys_main.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\select_citys_main.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_separator.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_content.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\main_content.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_main.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_vpager\\layout\\ui_main.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slide_map.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\slide_map.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_header.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swp_solution2.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_vpager\\scrollviewwithviewpager\\layout\\swp_solution2.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appstart_splash.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\appstart_splash.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_timeline.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_timeline.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_uppanel.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\sliding_uppanel.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\city_picker_main.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\city_picker_main.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_pulltozoom_halftop.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_scroll\\layout\\scroll_pulltozoom_halftop.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_map_float.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_scroll\\layout\\scroll_map_float.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_content.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\main_content.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spannable_main.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_other\\spannable\\layout\\spannable_main.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_vote_item.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_other\\vote\\layout\\other_vote_item.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friend_circle_comment_popu.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\friend_circle_comment_popu.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_up_panel_test.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\sliding_up_panel_test.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\phone_view.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_widget\\layout\\phone_view.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_4.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\fragment_4.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_index_scroll.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\main_index_scroll.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_view.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_recyclerview\\layout\\item_view.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\city_picker_pop.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\city_picker_pop.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appstart_viewflipper.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\appstart_viewflipper.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_list_group_item.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\map_list_group_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_menu.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_timeline_child_item.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_timeline_child_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_cycle_viewpager_contet.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\CodeBox\\library\\unspecified\\res\\layout\\view_cycle_viewpager_contet.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swp.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_vpager\\scrollviewwithviewpager\\layout\\swp.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_cycle_viewpager_indicator.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\CodeBox\\library\\unspecified\\res\\layout\\view_cycle_viewpager_indicator.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_menu_item_action_area.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swp_problem.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_vpager\\scrollviewwithviewpager\\layout\\swp_problem.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_vote_beauty.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_other\\vote\\layout\\other_vote_beauty.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friend_circle_comment_popu.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\friend_circle_comment_popu.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_list_group_item.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\map_list_group_item.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_vote_beauty_item.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_other\\vote\\layout\\other_vote_beauty_item.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_menu.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_content2.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_vpager\\scrollviewwithviewpager\\layout\\fragment_content2.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_drop_back_top_img.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_drop_back_top_img.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\multi_language.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_other\\layout\\multi_language.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mine_frag_myfishspot_detail.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\mine_frag_myfishspot_detail.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friend_circle.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\friend_circle.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_simple_item.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_simple_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_meituan_main.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_scroll\\layout\\scroll_meituan_main.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_meituan_main.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_scroll\\layout\\scroll_meituan_main.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiaomi_main.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_recyclerview\\xiaomi\\layout\\xiaomi_main.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recycle_loadmore.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_recyclerview\\layout\\recycle_loadmore.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_nav_header.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\main_nav_header.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appstart_guide.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\appstart_guide.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appstart_viewpager.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\appstart_viewpager.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\horizontal_list_item.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\CodeBox\\library\\unspecified\\res\\layout\\horizontal_list_item.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_editor_item.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_editor_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pic_dragimage.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_pic\\layout\\pic_dragimage.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\range_seek_bar_new.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\range_seek_bar_new.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_list_children_item.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\map_list_children_item.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_header.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_header.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appstart_guide.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\appstart_guide.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appstart_viewflipper.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\appstart_viewflipper.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_main.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_vpager\\layout\\ui_main.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_lines.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\san_main.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\san_main.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_index.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\main_index.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mine_frag_myfishspot_detail.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\mine_frag_myfishspot_detail.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_media_action.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hozi_nanhuaijin.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\hozi_nanhuaijin.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\range_seek_bar_new.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\range_seek_bar_new.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiaomi_main.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_recyclerview\\xiaomi\\layout\\xiaomi_main.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mine_frag_myfishspot_item.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\mine_frag_myfishspot_item.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_drop_back.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_drop_back.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swp.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_vpager\\scrollviewwithviewpager\\layout\\swp.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_pulltozoom_halftop.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_scroll\\layout\\scroll_pulltozoom_halftop.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_drop_back_item.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_drop_back_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_index.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\main_index.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiaomi_act.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_recyclerview\\xiaomi\\layout\\xiaomi_act.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_pinned_section_layout.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_list\\layout\\list_pinned_section_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_index_item.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\main_index_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_index_scroll.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\main_index_scroll.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_citys_dialog.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_classic\\layout\\select_citys_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_view.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_tab_text.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\multi_language.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_other\\layout\\multi_language.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\catch_cat.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_other\\catchcat\\layout\\catch_cat.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appstart_successlaunch.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\appstart_successlaunch.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_3.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\fragment_3.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_app_bar.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\main_app_bar.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_vp_float_layout.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_scroll\\layout\\scroll_vp_float_layout.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appstart_scrollview.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout\\appstart_scrollview.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swp_solution1.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_vpager\\scrollviewwithviewpager\\layout\\swp_solution1.xml"
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\trinaea.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_vpager\\layout\\trinaea.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_content1.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\src\\main\\res\\layout_vpager\\scrollviewwithviewpager\\layout\\fragment_content1.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_cycle_viewpager_contet.xml",
+        "source": "D:\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\CodeBox\\library\\unspecified\\res\\layout\\view_cycle_viewpager_contet.xml"
     }
 ]
