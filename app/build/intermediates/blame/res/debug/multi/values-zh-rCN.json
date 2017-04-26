@@ -425,8 +425,46 @@
                     "startLine": 24,
                     "startColumn": 4,
                     "startOffset": 2027,
+                    "endColumn": 39,
+                    "endOffset": 2062
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1309,
+                        "endColumn": 39,
+                        "endOffset": 1344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2067,
+                    "endColumn": 43,
+                    "endOffset": 2106
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1350,
+                        "endColumn": 43,
+                        "endOffset": 1389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2111,
                     "endColumn": 59,
-                    "endOffset": 2082
+                    "endOffset": 2166
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -441,11 +479,11 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2087,
+                    "startOffset": 2171,
                     "endColumn": 55,
-                    "endOffset": 2138
+                    "endOffset": 2222
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -460,11 +498,11 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 2143,
+                    "startOffset": 2227,
                     "endColumn": 47,
-                    "endOffset": 2186
+                    "endOffset": 2270
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -479,11 +517,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2191,
+                    "startOffset": 2275,
                     "endColumn": 77,
-                    "endOffset": 2264
+                    "endOffset": 2348
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -498,11 +536,11 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2269,
+                    "startOffset": 2353,
                     "endColumn": 73,
-                    "endOffset": 2338
+                    "endOffset": 2422
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -517,11 +555,125 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 2343,
+                    "startOffset": 2427,
+                    "endColumn": 94,
+                    "endOffset": 2517
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1771,
+                        "endColumn": 94,
+                        "endOffset": 1861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2522,
+                    "endColumn": 121,
+                    "endOffset": 2639
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1867,
+                        "endColumn": 121,
+                        "endOffset": 1984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2644,
+                    "endColumn": 78,
+                    "endOffset": 2718
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1576,
+                        "endColumn": 78,
+                        "endOffset": 1650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2723,
+                    "endColumn": 111,
+                    "endOffset": 2830
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1656,
+                        "endColumn": 111,
+                        "endOffset": 1763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2835,
+                    "endColumn": 70,
+                    "endOffset": 2901
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1397,
+                        "endColumn": 70,
+                        "endOffset": 1463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2906,
+                    "endColumn": 103,
+                    "endOffset": 3005
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1469,
+                        "endColumn": 103,
+                        "endOffset": 1568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3010,
                     "endColumn": 46,
-                    "endOffset": 2385
+                    "endOffset": 3052
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -536,11 +688,11 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 2390,
+                    "startOffset": 3057,
                     "endColumn": 47,
-                    "endOffset": 2433
+                    "endOffset": 3100
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -555,11 +707,11 @@
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 2438,
+                    "startOffset": 3105,
                     "endColumn": 44,
-                    "endOffset": 2478
+                    "endOffset": 3145
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -574,11 +726,32 @@
             },
             {
                 "to": {
-                    "startLine": 32,
+                    "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 2483,
+                    "startOffset": 3150,
+                    "endLine": 60,
+                    "endColumn": 393,
+                    "endOffset": 9212
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1992,
+                        "endLine": 58,
+                        "endColumn": 393,
+                        "endOffset": 8074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 9217,
                     "endColumn": 51,
-                    "endOffset": 2530
+                    "endOffset": 9264
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -593,11 +766,11 @@
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 2535,
+                    "startOffset": 9269,
                     "endColumn": 63,
-                    "endOffset": 2594
+                    "endOffset": 9328
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -612,11 +785,11 @@
             },
             {
                 "to": {
-                    "startLine": 34,
+                    "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 2599,
+                    "startOffset": 9333,
                     "endColumn": 49,
-                    "endOffset": 2644
+                    "endOffset": 9378
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -631,11 +804,11 @@
             },
             {
                 "to": {
-                    "startLine": 35,
+                    "startLine": 64,
                     "startColumn": 4,
-                    "startOffset": 2649,
+                    "startOffset": 9383,
                     "endColumn": 45,
-                    "endOffset": 2690
+                    "endOffset": 9424
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -650,11 +823,11 @@
             },
             {
                 "to": {
-                    "startLine": 36,
+                    "startLine": 65,
                     "startColumn": 4,
-                    "startOffset": 2695,
+                    "startOffset": 9429,
                     "endColumn": 58,
-                    "endOffset": 2749
+                    "endOffset": 9483
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -669,11 +842,11 @@
             },
             {
                 "to": {
-                    "startLine": 37,
+                    "startLine": 66,
                     "startColumn": 4,
-                    "startOffset": 2754,
+                    "startOffset": 9488,
                     "endColumn": 100,
-                    "endOffset": 2850
+                    "endOffset": 9584
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
@@ -688,11 +861,11 @@
             },
             {
                 "to": {
-                    "startLine": 38,
+                    "startLine": 67,
                     "startColumn": 4,
-                    "startOffset": 2855,
+                    "startOffset": 9589,
                     "endColumn": 67,
-                    "endOffset": 2918
+                    "endOffset": 9652
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -707,11 +880,11 @@
             },
             {
                 "to": {
-                    "startLine": 39,
+                    "startLine": 68,
                     "startColumn": 4,
-                    "startOffset": 2923,
+                    "startOffset": 9657,
                     "endColumn": 69,
-                    "endOffset": 2988
+                    "endOffset": 9722
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -726,11 +899,11 @@
             },
             {
                 "to": {
-                    "startLine": 40,
+                    "startLine": 69,
                     "startColumn": 4,
-                    "startOffset": 2993,
+                    "startOffset": 9727,
                     "endColumn": 57,
-                    "endOffset": 3046
+                    "endOffset": 9780
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -745,11 +918,11 @@
             },
             {
                 "to": {
-                    "startLine": 41,
+                    "startLine": 70,
                     "startColumn": 4,
-                    "startOffset": 3051,
+                    "startOffset": 9785,
                     "endColumn": 51,
-                    "endOffset": 3098
+                    "endOffset": 9832
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -764,11 +937,11 @@
             },
             {
                 "to": {
-                    "startLine": 42,
+                    "startLine": 71,
                     "startColumn": 4,
-                    "startOffset": 3103,
+                    "startOffset": 9837,
                     "endColumn": 54,
-                    "endOffset": 3153
+                    "endOffset": 9887
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -783,11 +956,11 @@
             },
             {
                 "to": {
-                    "startLine": 43,
+                    "startLine": 72,
                     "startColumn": 4,
-                    "startOffset": 3158,
+                    "startOffset": 9892,
                     "endColumn": 42,
-                    "endOffset": 3196
+                    "endOffset": 9930
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Documents\\GitHub\\CodeBox\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",

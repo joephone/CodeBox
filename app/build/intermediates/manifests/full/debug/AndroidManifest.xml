@@ -5,7 +5,7 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="15"
+        android:minSdkVersion="19"
         android:targetSdkVersion="23" />
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -132,9 +132,30 @@
 
         <!-- pic -->
         <activity
-            android:name="com.joephone.codebox.act.pic.act.DragImageActivity"
+            android:name="com.joephone.codebox.act.pic.dragimage.act.DragImageActivity"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.joephone.codebox.act.pic.gallaryswitcher.act.GallarySwitcherAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
+        <activity
+            android:name="com.joephone.codebox.act.pic.gallary3d.act.Gallery3dAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
+        <activity
+            android:name="com.joephone.codebox.act.pic.gallary3d.act.ViewPagerTestAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
+        <activity
+            android:name="com.joephone.codebox.act.pic.gallary3d.act.GalleryFlowAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
+        <activity
+            android:name="com.joephone.codebox.act.pic.inovex.act.ViewPagerActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
+
         <!-- end pic -->
 
 

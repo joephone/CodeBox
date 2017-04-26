@@ -1,11 +1,10 @@
-package com.joephone.codebox.act.pic.view;
+package com.joephone.codebox.act.pic.dragimage.view;
 
 import android.app.Activity;
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.os.AsyncTask;
 import android.util.AttributeSet;
-import android.util.FloatMath;
 import android.util.Log;
 import android.view.MotionEvent;
 import android.view.animation.ScaleAnimation;

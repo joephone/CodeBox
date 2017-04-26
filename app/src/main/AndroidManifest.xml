@@ -126,9 +126,30 @@
 
         <!--  pic -->
         <activity
-            android:name=".act.pic.act.DragImageActivity"
+            android:name=".act.pic.dragimage.act.DragImageActivity"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+        <activity
+            android:name=".act.pic.gallaryswitcher.act.GallarySwitcherAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+        <activity
+            android:name=".act.pic.gallary3d.act.Gallery3dAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+        <activity
+            android:name=".act.pic.gallary3d.act.ViewPagerTestAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+        <activity
+            android:name=".act.pic.gallary3d.act.GalleryFlowAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+        <activity
+            android:name=".act.pic.inovex.act.ViewPagerActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+
         <!-- end pic -->
 
         <!-- sliding -->

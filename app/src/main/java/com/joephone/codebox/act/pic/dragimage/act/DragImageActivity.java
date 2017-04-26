@@ -1,4 +1,4 @@
-package com.joephone.codebox.act.pic.act;
+package com.joephone.codebox.act.pic.dragimage.act;
 
 import java.io.InputStream;
 
@@ -13,8 +13,8 @@ import android.view.ViewTreeObserver.OnGlobalLayoutListener;
 import android.view.Window;
 
 import com.joephone.codebox.R;
-import com.joephone.codebox.act.pic.util.PicDragImageBitmapUtil;
-import com.joephone.codebox.act.pic.view.PicDragImageView;
+import com.joephone.codebox.act.pic.dragimage.util.PicDragImageBitmapUtil;
+import com.joephone.codebox.act.pic.dragimage.view.PicDragImageView;
 import com.joephone.codebox.util.DensityUtils;
 
 public class DragImageActivity extends Activity {
