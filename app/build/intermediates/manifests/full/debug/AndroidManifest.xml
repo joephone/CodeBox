@@ -41,6 +41,10 @@
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle" />
         <activity
+            android:name="com.joephone.codebox.WidgetIndex"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
+        <activity
             android:name="com.joephone.codebox.RecyclerIndex"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle" />
@@ -62,6 +66,12 @@
             android:theme="@style/NoTitle" />
         <activity
             android:name="com.joephone.codebox.ClassicIndex"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle" />
+
+        <!-- widget -->
+        <activity
+            android:name="com.joephone.codebox.act.widget.act.PhoneViewAct"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle" />
 
@@ -254,6 +264,11 @@
             android:name="com.joephone.codebox.act.other.catchcat.act.CatchCat"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat" />
+        <activity
+            android:name="com.joephone.codebox.act.other.SpannableStringBuilder.act.SpannableAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat" />
+
         <!-- end other -->
 
 
@@ -289,6 +304,16 @@
             android:theme="@style/AppTheme" />
         <activity
             android:name="com.joephone.codebox.act.classic.rangeseek.act.NewRangeSeekBarAct"
+            android:screenOrientation="portrait"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.joephone.codebox.act.classic.weibo.act.WeiboPlusAct"
+            android:screenOrientation="portrait"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.joephone.codebox.act.classic.weibo.act.WeiboPlusPage"
             android:screenOrientation="portrait"
             android:supportsRtl="true"
             android:theme="@style/AppTheme" />

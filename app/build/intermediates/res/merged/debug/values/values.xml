@@ -47,6 +47,8 @@
     <color name="abc_search_url_text_selected">@android:color/black</color>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
     <color name="accent_material_light">@color/material_deep_teal_500</color>
+    <color name="add_bg_normal">#ff8200</color>
+    <color name="add_bg_pressed">#d46403</color>
     <color name="all_bg1">#fafdff</color>
     <color name="all_view">#c7ced0</color>
     <color name="alpha_00">#00000000</color>
@@ -670,6 +672,7 @@
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
+    <dimen name="more_window_item_margin">12dp</dimen>
     <dimen name="nav_header_height">160dp</dimen>
     <dimen name="nav_header_vertical_spacing">16dp</dimen>
     <dimen name="notification_large_icon_height">64dp</dimen>

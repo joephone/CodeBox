@@ -38,9 +38,13 @@ android {
                             'src/main/res/layout_other',
                             'src/main/res/layout_other/vote',
                             'src/main/res/layout_other/catchcat',
+                            'src/main/res/layout_other/spannable',
+                            'src/main/res/layout_other/web',
                             'src/main/res/layout_classic',
                             'src/main/res/layout_classic/city_picker',
                             'src/main/res/layout_classic/rangeseekbar',
+                            'src/main/res/layout_classic/weiboplus',
+                            'src/main/res/layout_widget',
 
                     ]
         }

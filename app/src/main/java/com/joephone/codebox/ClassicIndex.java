@@ -18,6 +18,8 @@ import com.joephone.codebox.act.classic.act.SelectCitiesActivity;
 import com.joephone.codebox.act.classic.act.CPAct;
 import com.joephone.codebox.act.classic.rangeseek.act.NewRangeSeekBarAct;
 import com.joephone.codebox.act.classic.rangeseek.act.RangeSeekBarAct;
+import com.joephone.codebox.act.classic.weibo.act.WeiboPlusAct;
+import com.joephone.codebox.act.classic.weibo.act.WeiboPlusPage;
 import com.joephone.codebox.adapter.IndexAdapter;
 
 import java.util.ArrayList;
@@ -66,6 +68,9 @@ public class ClassicIndex extends Activity {
         sourceList.add("微信朋友圈点赞评论弹出框效果Popupwindow");
         sourceList.add("一个漂亮的范围拖动条");
         sourceList.add("一个漂亮的范围拖动条 new ");
+        sourceList.add("仿微博加号动画 ");
+        sourceList.add("仿微博加号动画2 ");
+
         adapter = new IndexAdapter(this, sourceList);
         lvIndex.setAdapter(adapter);
     }
@@ -103,6 +108,15 @@ public class ClassicIndex extends Activity {
                     intent = new Intent(context, NewRangeSeekBarAct.class);
                     startActivity(intent);
                     break;
+                case 6:
+                    intent = new Intent(context, WeiboPlusAct.class);
+                    startActivity(intent);
+                    break;
+                case 7:
+                    intent = new Intent(context, WeiboPlusPage.class);
+                    startActivity(intent);
+                    break;
+
                 default:
                     break;
             }

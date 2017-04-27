@@ -15,7 +15,7 @@
 
     <dimen name="thumnail_default_width">100dip</dimen>
     <dimen name="thumnail_default_height">100dip</dimen>
-
+    <dimen name="more_window_item_margin">12dp</dimen>
 
 
     <!-- 通用 -->
