@@ -32,6 +32,7 @@
     <dimen name="size_22">22sp</dimen>
     <dimen name="size_24">24sp</dimen>
     <dimen name="size_35">35sp</dimen>
+    <dimen name="size_40">40sp</dimen>
     <!-- 通用dp -->
     <dimen name="dp_3">3dp</dimen>
     <dimen name="dp_5">5dp</dimen>

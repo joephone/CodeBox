@@ -691,6 +691,7 @@
     <dimen name="size_22">22sp</dimen>
     <dimen name="size_24">24sp</dimen>
     <dimen name="size_35">35sp</dimen>
+    <dimen name="size_40">40sp</dimen>
     <dimen name="sliding_menu_width">80dp</dimen>
     <dimen name="textSize">22sp</dimen>
     <dimen name="thumnail_default_height">100dip</dimen>
@@ -2346,5 +2347,12 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:textColor">@color/black</item>
         <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="my_dialog_style" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
     </style>
 </resources>

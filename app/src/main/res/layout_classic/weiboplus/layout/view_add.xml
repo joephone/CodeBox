@@ -177,6 +177,6 @@
             android:id="@+id/close"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/tabbar_compose_background_icon_close"/>
+            android:src="@drawable/cross_close"/>
     </LinearLayout>
 </LinearLayout>

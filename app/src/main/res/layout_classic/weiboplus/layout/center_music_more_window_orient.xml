@@ -75,6 +75,6 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="78dip"
         android:layout_toRightOf="@+id/more_window_collect"
-        android:src="@drawable/tabbar_compose_background_icon_close" />
+        android:src="@drawable/cross_close" />
 
 </RelativeLayout>

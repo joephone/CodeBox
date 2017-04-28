@@ -18,6 +18,7 @@ import com.joephone.codebox.act.classic.act.SelectCitiesActivity;
 import com.joephone.codebox.act.classic.act.CPAct;
 import com.joephone.codebox.act.classic.rangeseek.act.NewRangeSeekBarAct;
 import com.joephone.codebox.act.classic.rangeseek.act.RangeSeekBarAct;
+import com.joephone.codebox.act.classic.weibo.act.SinaBottomAct;
 import com.joephone.codebox.act.classic.weibo.act.WeiboPlusAct;
 import com.joephone.codebox.act.classic.weibo.act.WeiboPlusPage;
 import com.joephone.codebox.adapter.IndexAdapter;
@@ -70,7 +71,7 @@ public class ClassicIndex extends Activity {
         sourceList.add("一个漂亮的范围拖动条 new ");
         sourceList.add("仿微博加号动画 ");
         sourceList.add("仿微博加号动画2 ");
-
+        sourceList.add("试图弹出动画：仿微博弹出icon ");
         adapter = new IndexAdapter(this, sourceList);
         lvIndex.setAdapter(adapter);
     }
@@ -114,6 +115,10 @@ public class ClassicIndex extends Activity {
                     break;
                 case 7:
                     intent = new Intent(context, WeiboPlusPage.class);
+                    startActivity(intent);
+                    break;
+                case 8:
+                    intent = new Intent(context, SinaBottomAct.class);
                     startActivity(intent);
                     break;
 

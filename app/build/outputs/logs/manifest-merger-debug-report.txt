@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:2:1-320:12
+ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:2:1-324:12
 	package
 		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:3:5-35
 		INJECTED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml
@@ -22,7 +22,7 @@ ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidM
 	android:name
 		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:7:22-78
 application
-ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:9:5-318:19
+ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:9:5-322:19
 MERGED from [CodeBox:library:unspecified] C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\exploded-aar\CodeBox\library\unspecified\AndroidManifest.xml:11:5-14:19
 MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
@@ -569,6 +569,16 @@ ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidM
 		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:313:13-44
 	android:name
 		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:310:13-64
+activity#com.joephone.codebox.act.classic.weibo.act.SinaBottomAct
+ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:314:9-318:46
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:316:13-49
+	android:supportsRtl
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:317:13-39
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:318:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml:315:13-64
 uses-sdk
 INJECTED from C:\Users\Administrator\Documents\GitHub\CodeBox\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [CodeBox:library:unspecified] C:\Users\Administrator\Documents\GitHub\CodeBox\app\build\intermediates\exploded-aar\CodeBox\library\unspecified\AndroidManifest.xml:7:5-9:41

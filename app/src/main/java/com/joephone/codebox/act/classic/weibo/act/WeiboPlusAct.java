@@ -10,6 +10,7 @@ import android.view.Window;
 import android.widget.ImageView;
 
 import com.joephone.codebox.R;
+import com.joephone.codebox.act.classic.weibo.view.MoreWindow;
 
 public class WeiboPlusAct extends Activity {
 
