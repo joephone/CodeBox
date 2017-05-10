@@ -15,7 +15,7 @@
             android:layout_centerHorizontal="true"
             android:background="@drawable/cross_close" />
 
-        <LinearLayout
+        <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="bottom"
@@ -23,10 +23,10 @@
 
             <LinearLayout
                 android:id="@+id/ll_1"
-                android:layout_width="0dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="150dp"
-                android:layout_weight="1"
+                android:layout_toLeftOf="@+id/ll_2"
+                android:layout_centerVertical="true"
                 android:gravity="center_horizontal|bottom"
                 android:orientation="vertical">
 
@@ -40,16 +40,15 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
                     android:text="装修需求"
-                    android:textColor="@color/white"
+                    android:textColor="@color/black2"
                     android:textSize="13sp" />
             </LinearLayout>
 
             <LinearLayout
                 android:id="@+id/ll_2"
-                android:layout_width="0dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="150dp"
-                android:layout_weight="1"
+                android:layout_centerInParent="true"
                 android:gravity="center_horizontal|bottom"
                 android:orientation="vertical">
 
@@ -63,16 +62,16 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
                     android:text="设计需求"
-                    android:textColor="@color/white"
+                    android:textColor="@color/black2"
                     android:textSize="13sp" />
             </LinearLayout>
 
             <LinearLayout
                 android:id="@+id/ll_3"
-                android:layout_width="0dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="150dp"
-                android:layout_weight="1"
+                android:layout_toRightOf="@+id/ll_2"
+                android:layout_centerVertical="true"
                 android:gravity="center_horizontal|bottom"
                 android:orientation="vertical">
 
@@ -86,17 +85,17 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
                     android:text="维修需求"
-                    android:textColor="@color/white"
+                    android:textColor="@color/black2"
                     android:textSize="13sp" />
             </LinearLayout>
 
             <LinearLayout
                 android:id="@+id/ll_4"
-                android:layout_width="0dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="150dp"
-                android:layout_weight="1"
-                android:gravity="center_horizontal|bottom"
+                android:layout_below="@+id/ll_2"
+                android:layout_toLeftOf="@+id/ll_5"
+                android:layout_centerHorizontal="true"
                 android:orientation="vertical">
 
                 <ImageView
@@ -109,11 +108,33 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
                     android:text="其它需求"
-                    android:textColor="@color/white"
+                    android:textColor="@color/black2"
                     android:textSize="13sp" />
             </LinearLayout>
 
-        </LinearLayout>
+            <LinearLayout
+                android:id="@+id/ll_5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/ll_4"
+                android:layout_centerHorizontal="true"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/news_camera" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="相机"
+                    android:textColor="@color/black2"
+                    android:textSize="13sp" />
+            </LinearLayout>
+
+        </RelativeLayout>
 
     </RelativeLayout>
 </RelativeLayout>

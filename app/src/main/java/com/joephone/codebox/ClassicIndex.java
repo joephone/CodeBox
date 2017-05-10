@@ -61,7 +61,7 @@ public class ClassicIndex extends Activity {
     }
 
     private void initListView() {
-        List<String> sourceList = new ArrayList<String>();
+        List<String> sourceList = new ArrayList<>();
         lvIndex.setOnItemClickListener(lvScrollViewIndexOnItemClickListner);
         sourceList.add("三级联");
         sourceList.add("SelectCities");

@@ -15,6 +15,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.Button;
 import android.widget.LinearLayout;
+import android.widget.Toast;
 
 import com.joephone.codebox.R;
 
@@ -107,13 +108,18 @@ public class SinaBottomAct extends AppCompatActivity implements View.OnClickList
                     closeAnim(mLinear1, 250, 530);
                 }
             });
+
+            mLinear1.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    Toast.makeText(getApplicationContext(),"1",Toast.LENGTH_SHORT).show();
+                }
+            });
         }
 
-        public void showDialog()
-        {
+        public void showDialog(){
             this.show();
         }
-
 
         private void showAnim(final LinearLayout i, int d) {
             i.setVisibility(View.INVISIBLE);

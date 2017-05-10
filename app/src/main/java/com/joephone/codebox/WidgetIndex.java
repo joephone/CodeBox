@@ -11,6 +11,7 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
 
 import com.joephone.codebox.act.widget.act.PhoneViewAct;
+import com.joephone.codebox.act.widget.act.StarViewAct;
 import com.joephone.codebox.adapter.IndexAdapter;
 
 import java.util.ArrayList;
@@ -44,6 +45,9 @@ public class WidgetIndex extends Activity {
         List<String> sourceList = new ArrayList<String>();
         lvIndex.setOnItemClickListener(lvPicIndexOnItemClickListner);
         sourceList.add("号码分隔  PhoneViewAct");
+        sourceList.add("星星评分控件，ratingbar，自定义大小，形状");
+
+
 //        sourceList.add("左右滑动效果   ViewFipper");
 //        sourceList.add("带动画的Gallary   GallarySwitcher");
 //        sourceList.add("头像，拍照，获取本地图片，裁剪，显示圆形头像");
@@ -61,6 +65,10 @@ public class WidgetIndex extends Activity {
             switch (position) {
                 case 0:
                     intent = new Intent(context, PhoneViewAct.class);
+                    startActivity(intent);
+                    break;
+                case 1:
+                    intent = new Intent(context, StarViewAct.class);
                     startActivity(intent);
                     break;
 //                case 1:

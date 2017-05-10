@@ -69,6 +69,11 @@
             android:name=".act.widget.act.PhoneViewAct"
             android:screenOrientation="portrait"
             android:theme="@style/NoTitle"/>
+        <activity
+            android:name=".act.widget.act.StarViewAct"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"/>
+
 
         <!-- scroll -->
         <activity

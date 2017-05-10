@@ -524,6 +524,7 @@
     <declare-styleable name="ViewPager3D"><attr format="float" name="overscroll_rotation"/><attr format="integer" name="overscroll_translation"/><attr format="float" name="swipe_rotation"/><attr format="integer" name="swipe_translation"/><attr format="integer" name="overscroll_animation_duration"/><attr format="boolean" name="animate_alpha"/></declare-styleable>
     <declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiIconPageIndicatorStyle"/><attr format="reference" name="vpiLinePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable>
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
+    <declare-styleable name="star"><attr format="integer" name="starsNum"/><attr format="dimension" name="starWidth"/><attr format="dimension" name="starHeight"/><attr format="dimension" name="starDistance"/><attr format="reference" name="starBackground"/><attr format="reference" name="starDrawBackground"/><attr format="boolean" name="starClickable"/></declare-styleable>
     <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
     <dimen name="abc_action_bar_default_padding_end_material">0dp</dimen>
@@ -2351,7 +2352,7 @@
     <style name="my_dialog_style" parent="android:style/Theme.Dialog">
         <item name="android:windowFrame">@null</item>
         <item name="android:windowNoTitle">true</item>
-        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowBackground">@color/white</item>
         <item name="android:windowIsFloating">true</item>
         <item name="android:windowContentOverlay">@null</item>
     </style>
